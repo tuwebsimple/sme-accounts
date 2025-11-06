@@ -1,0 +1,5208 @@
+{
+  "Rauw Alejandro": {
+    "tiktok": {
+      "total_videos": 55,
+      "avg_views": 61359.94545454546,
+      "avg_likes": 6225.618181818182,
+      "avg_ir": 6.118111489442092,
+      "total_views": 3374797,
+      "total_likes": 342409
+    },
+    "instagram": {
+      "total_videos": 40,
+      "avg_views": 18005.5625,
+      "avg_likes": 772.85,
+      "avg_ir": 3.187931229295634,
+      "total_views": 576178,
+      "total_likes": 30914
+    }
+  },
+  "Nathy Peluso": {
+    "tiktok": {
+      "total_videos": 28,
+      "avg_views": 13907.214285714286,
+      "avg_likes": 693.7857142857143,
+      "avg_ir": 7.288451497540604,
+      "total_views": 389402,
+      "total_likes": 19426
+    },
+    "instagram": {
+      "total_videos": 14,
+      "avg_views": 39174.125,
+      "avg_likes": 532.7857142857143,
+      "avg_ir": 1.535504465932428,
+      "total_views": 313393,
+      "total_likes": 7459
+    }
+  },
+  "Panda": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 51149.5,
+      "avg_likes": 4418.2,
+      "avg_ir": 4.459826087944716,
+      "total_views": 511495,
+      "total_likes": 44182
+    }
+  },
+  "Maluma": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 31669.4,
+      "avg_likes": 2020.8,
+      "avg_ir": 6.69501807238148,
+      "total_views": 158347,
+      "total_likes": 10104
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 16592.0,
+      "avg_likes": 418.22222222222223,
+      "avg_ir": 1.641679936046681,
+      "total_views": 49776,
+      "total_likes": 3764
+    }
+  },
+  "TINI": {
+    "tiktok": {
+      "total_videos": 21,
+      "avg_views": 20281.52380952381,
+      "avg_likes": 1577.6190476190477,
+      "avg_ir": 6.834793634995115,
+      "total_views": 425912,
+      "total_likes": 33130
+    }
+  },
+  "Sandro": {
+    "tiktok": {
+      "total_videos": 24,
+      "avg_views": 7234.833333333333,
+      "avg_likes": 430.9583333333333,
+      "avg_ir": 4.149075712424408,
+      "total_views": 173636,
+      "total_likes": 10343
+    }
+  },
+  "Belinda": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 11182.0,
+      "avg_likes": 2163.75,
+      "avg_ir": 10.168978765602024,
+      "total_views": 44728,
+      "total_likes": 8655
+    }
+  },
+  "Farina": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 234327.0,
+      "avg_likes": 11784.0,
+      "avg_ir": 3.5001977472896395,
+      "total_views": 702981,
+      "total_likes": 35352
+    }
+  },
+  "Milo j": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6856.0,
+      "avg_likes": 653.0,
+      "avg_ir": 9.582847141190198,
+      "total_views": 6856,
+      "total_likes": 653
+    }
+  },
+  "Carlos Rivera": {
+    "tiktok": {
+      "total_videos": 47,
+      "avg_views": 9580.702127659575,
+      "avg_likes": 486.2340425531915,
+      "avg_ir": 4.491305195164698,
+      "total_views": 450293,
+      "total_likes": 22853
+    },
+    "instagram": {
+      "total_videos": 38,
+      "avg_views": 10145.833333333334,
+      "avg_likes": 560.8947368421053,
+      "avg_ir": 5.203443993836955,
+      "total_views": 304375,
+      "total_likes": 21314
+    }
+  },
+  "Yuridia": {
+    "tiktok": {
+      "total_videos": 27,
+      "avg_views": 64961.11111111111,
+      "avg_likes": 4001.5555555555557,
+      "avg_ir": 4.677668651293861,
+      "total_views": 1753950,
+      "total_likes": 108042
+    }
+  },
+  "Shakira": {
+    "tiktok": {
+      "total_videos": 65,
+      "avg_views": 592059.7692307692,
+      "avg_likes": 28492.53846153846,
+      "avg_ir": 5.963004882617477,
+      "total_views": 38483885,
+      "total_likes": 1852015
+    },
+    "instagram": {
+      "total_videos": 68,
+      "avg_views": 55308.77419354839,
+      "avg_likes": 2907.25,
+      "avg_ir": 4.900995479803142,
+      "total_views": 3429144,
+      "total_likes": 197693
+    }
+  },
+  "Emilia": {
+    "tiktok": {
+      "total_videos": 29,
+      "avg_views": 17024.137931034482,
+      "avg_likes": 842.3448275862069,
+      "avg_ir": 7.144463102483283,
+      "total_views": 493700,
+      "total_likes": 24428
+    },
+    "instagram": {
+      "total_videos": 30,
+      "avg_views": 19183.48,
+      "avg_likes": 650.6,
+      "avg_ir": 2.939291882095871,
+      "total_views": 479587,
+      "total_likes": 19518
+    }
+  },
+  "Camilo": {
+    "tiktok": {
+      "total_videos": 53,
+      "avg_views": 19712.603773584906,
+      "avg_likes": 1157.2641509433963,
+      "avg_ir": 4.570320885031089,
+      "total_views": 1044768,
+      "total_likes": 61335
+    },
+    "instagram": {
+      "total_videos": 22,
+      "avg_views": 8436.888888888889,
+      "avg_likes": 168.36363636363637,
+      "avg_ir": 0.7544728853316457,
+      "total_views": 75932,
+      "total_likes": 3704
+    }
+  },
+  "Denom": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1375.0,
+      "avg_likes": 74.0,
+      "avg_ir": 5.744794464482132,
+      "total_views": 2750,
+      "total_likes": 148
+    }
+  },
+  "Siddhartha": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 15718.5,
+      "avg_likes": 1976.8,
+      "avg_ir": 8.478716182262776,
+      "total_views": 157185,
+      "total_likes": 19768
+    },
+    "instagram": {
+      "total_videos": 11,
+      "avg_views": 8607.7,
+      "avg_likes": 202.54545454545453,
+      "avg_ir": 2.0447193400300723,
+      "total_views": 86077,
+      "total_likes": 2228
+    }
+  },
+  "Monsieur Periné": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 3373.3333333333335,
+      "avg_likes": 72.66666666666667,
+      "avg_ir": 2.7290746970283686,
+      "total_views": 10120,
+      "total_likes": 218
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 15828.0,
+      "avg_likes": 383.0,
+      "avg_ir": 2.432398281526409,
+      "total_views": 15828,
+      "total_likes": 383
+    }
+  },
+  "Sabino": {
+    "tiktok": {
+      "total_videos": 21,
+      "avg_views": 5577.714285714285,
+      "avg_likes": 481.3333333333333,
+      "avg_ir": 5.79612132866594,
+      "total_views": 117132,
+      "total_likes": 10108
+    },
+    "instagram": {
+      "total_videos": 35,
+      "avg_views": 9599.342857142858,
+      "avg_likes": 176.65714285714284,
+      "avg_ir": 2.155083113270988,
+      "total_views": 335977,
+      "total_likes": 6183
+    }
+  },
+  "Ysrael Barajas": {
+    "tiktok": {
+      "total_videos": 19,
+      "avg_views": 73283.78947368421,
+      "avg_likes": 5109.210526315789,
+      "avg_ir": 4.825671041799388,
+      "total_views": 1392392,
+      "total_likes": 97075
+    },
+    "instagram": {
+      "total_videos": 20,
+      "avg_views": 9384.785714285714,
+      "avg_likes": 4059.65,
+      "avg_ir": 2.0327422236826584,
+      "total_views": 131387,
+      "total_likes": 81193
+    }
+  },
+  "Maria Jose": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 58100.0,
+      "avg_likes": 7697.0,
+      "avg_ir": 12.918404286945362,
+      "total_views": 116200,
+      "total_likes": 15394
+    }
+  },
+  "Rels B": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 37621.5,
+      "avg_likes": 1045.0,
+      "avg_ir": 4.055897959708089,
+      "total_views": 75243,
+      "total_likes": 2090
+    }
+  },
+  "Thalia": {
+    "tiktok": {
+      "total_videos": 18,
+      "avg_views": 5580.555555555556,
+      "avg_likes": 411.55555555555554,
+      "avg_ir": 5.041826629424839,
+      "total_views": 100450,
+      "total_likes": 7408
+    },
+    "instagram": {
+      "total_videos": 15,
+      "avg_views": 17784.333333333332,
+      "avg_likes": 400.8666666666667,
+      "avg_ir": 1.9872906743126744,
+      "total_views": 160059,
+      "total_likes": 6013
+    }
+  },
+  "LISA": {
+    "tiktok": {
+      "total_videos": 26,
+      "avg_views": 102431.92307692308,
+      "avg_likes": 5645.5,
+      "avg_ir": 6.761882480755603,
+      "total_views": 2663230,
+      "total_likes": 146783
+    }
+  },
+  "NAPA": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1347.0,
+      "avg_likes": 46.0,
+      "avg_ir": 3.346372744646909,
+      "total_views": 2694,
+      "total_likes": 92
+    }
+  },
+  "Fonseca": {
+    "tiktok": {
+      "total_videos": 9,
+      "avg_views": 2268.5555555555557,
+      "avg_likes": 47.111111111111114,
+      "avg_ir": 2.3623438406874393,
+      "total_views": 20417,
+      "total_likes": 424
+    },
+    "instagram": {
+      "total_videos": 10,
+      "avg_views": 4601.166666666667,
+      "avg_likes": 84.2,
+      "avg_ir": 0.84916240087052,
+      "total_views": 27607,
+      "total_likes": 842
+    }
+  },
+  "DONDA": {
+    "tiktok": {
+      "total_videos": 13,
+      "avg_views": 9069.0,
+      "avg_likes": 1276.6923076923076,
+      "avg_ir": 8.138583396053757,
+      "total_views": 117897,
+      "total_likes": 16597
+    }
+  },
+  "BRUSES": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 6173.3,
+      "avg_likes": 485.3,
+      "avg_ir": 7.584246791918906,
+      "total_views": 61733,
+      "total_likes": 4853
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 12760.0,
+      "avg_likes": 349.2857142857143,
+      "avg_ir": 2.1719687471080293,
+      "total_views": 76560,
+      "total_likes": 2445
+    }
+  },
+  "Juan Luis": {
+    "tiktok": {
+      "total_videos": 28,
+      "avg_views": 43978.57142857143,
+      "avg_likes": 234.03571428571428,
+      "avg_ir": 3.652903544400673,
+      "total_views": 1231400,
+      "total_likes": 6553
+    }
+  },
+  "Damiano David": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 127823.83333333333,
+      "avg_likes": 18085.333333333332,
+      "avg_ir": 9.215030788845523,
+      "total_views": 766943,
+      "total_likes": 108512
+    },
+    "instagram": {
+      "total_videos": 18,
+      "avg_views": 7647.333333333333,
+      "avg_likes": 248.44444444444446,
+      "avg_ir": 3.3131536364828253,
+      "total_views": 137652,
+      "total_likes": 4472
+    }
+  },
+  "Dani M": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1318.0,
+      "avg_likes": 48.0,
+      "avg_ir": 3.929639942788837,
+      "total_views": 2636,
+      "total_likes": 96
+    }
+  },
+  "Yuri": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 62893.125,
+      "avg_likes": 2358.375,
+      "avg_ir": 6.9485250594061405,
+      "total_views": 503145,
+      "total_likes": 18867
+    }
+  },
+  "Trueno": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 38725.25,
+      "avg_likes": 6515.375,
+      "avg_ir": 9.225301590325671,
+      "total_views": 309802,
+      "total_likes": 52123
+    },
+    "instagram": {
+      "total_videos": 19,
+      "avg_views": 8388.75,
+      "avg_likes": 380.63157894736844,
+      "avg_ir": 2.7395140412765304,
+      "total_views": 134220,
+      "total_likes": 7232
+    }
+  },
+  "Cornelio Reyna": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5459.0,
+      "avg_likes": 408.0,
+      "avg_ir": 7.583806557977652,
+      "total_views": 5459,
+      "total_likes": 408
+    }
+  },
+  "Neto Bernal": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 37074.666666666664,
+      "avg_likes": 2326.6666666666665,
+      "avg_ir": 5.664098671001896,
+      "total_views": 111224,
+      "total_likes": 6980
+    }
+  },
+  "Conociendo Rusia": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1261.0,
+      "avg_likes": 99.0,
+      "avg_ir": 8.088818398096748,
+      "total_views": 1261,
+      "total_likes": 99
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 16284.166666666666,
+      "avg_likes": 206.71428571428572,
+      "avg_ir": 1.9202427805043916,
+      "total_views": 97705,
+      "total_likes": 1447
+    }
+  },
+  "Alejandro Sanz": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 1887.0,
+      "avg_likes": 46.333333333333336,
+      "avg_ir": 3.069946560858743,
+      "total_views": 5661,
+      "total_likes": 139
+    },
+    "instagram": {
+      "total_videos": 15,
+      "avg_views": 92746.13333333333,
+      "avg_likes": 1328.8,
+      "avg_ir": 3.292429608787129,
+      "total_views": 1391192,
+      "total_likes": 19932
+    }
+  },
+  "Miguel Bueno": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 1733.5714285714287,
+      "avg_likes": 61.285714285714285,
+      "avg_ir": 4.07236130646114,
+      "total_views": 12135,
+      "total_likes": 429
+    },
+    "instagram": {
+      "total_videos": 16,
+      "avg_views": 5641.466666666666,
+      "avg_likes": 122.6875,
+      "avg_ir": 1.652952488264328,
+      "total_views": 84622,
+      "total_likes": 1963
+    }
+  },
+  "Kevin AMF": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 17986.4,
+      "avg_likes": 449.6,
+      "avg_ir": 3.1578861134043055,
+      "total_views": 89932,
+      "total_likes": 2248
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 15825.25,
+      "avg_likes": 392.0,
+      "avg_ir": 2.4792390938933675,
+      "total_views": 126602,
+      "total_likes": 3136
+    }
+  },
+  "BEÉLE": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1761.0,
+      "avg_likes": 83.25,
+      "avg_ir": 4.879357735565453,
+      "total_views": 7044,
+      "total_likes": 333
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 54.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 108
+    }
+  },
+  "Guitarricadelafuente": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4467.0,
+      "avg_likes": 200.0,
+      "avg_ir": 4.589209760465637,
+      "total_views": 4467,
+      "total_likes": 200
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 12799.142857142857,
+      "avg_likes": 263.14285714285717,
+      "avg_ir": 2.074999390182463,
+      "total_views": 89594,
+      "total_likes": 1842
+    }
+  },
+  "GALE": {
+    "tiktok": {
+      "total_videos": 13,
+      "avg_views": 233662.53846153847,
+      "avg_likes": 1678.4615384615386,
+      "avg_ir": 3.0656216792251993,
+      "total_views": 3037613,
+      "total_likes": 21820
+    },
+    "instagram": {
+      "total_videos": 18,
+      "avg_views": 4982.285714285715,
+      "avg_likes": 86.66666666666667,
+      "avg_ir": 1.1984400785784493,
+      "total_views": 69752,
+      "total_likes": 1560
+    }
+  },
+  "Mon Laferte": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 31600.0,
+      "avg_likes": 4643.333333333333,
+      "avg_ir": 11.381058987108885,
+      "total_views": 94800,
+      "total_likes": 13930
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 27889.88888888889,
+      "avg_likes": 397.8888888888889,
+      "avg_ir": 2.750594533026341,
+      "total_views": 251009,
+      "total_likes": 3581
+    }
+  },
+  "Abraham Mateo": {
+    "tiktok": {
+      "total_videos": 19,
+      "avg_views": 6330.8421052631575,
+      "avg_likes": 470.5263157894737,
+      "avg_ir": 5.322660442214701,
+      "total_views": 120286,
+      "total_likes": 8940
+    },
+    "instagram": {
+      "total_videos": 16,
+      "avg_views": 393418.4,
+      "avg_likes": 9396.5,
+      "avg_ir": 2.2667794962513605,
+      "total_views": 3934184,
+      "total_likes": 150344
+    }
+  },
+  "Kenia OS": {
+    "tiktok": {
+      "total_videos": 159,
+      "avg_views": 182036.29559748428,
+      "avg_likes": 22061.025157232703,
+      "avg_ir": 19.397519041544808,
+      "total_views": 28943771,
+      "total_likes": 3507703
+    },
+    "instagram": {
+      "total_videos": 42,
+      "avg_views": 52665.37037037037,
+      "avg_likes": 4731.4047619047615,
+      "avg_ir": 5.175441161312533,
+      "total_views": 1421965,
+      "total_likes": 198719
+    }
+  },
+  "Fuerza Regida": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 2576.5454545454545,
+      "avg_likes": 94.27272727272727,
+      "avg_ir": 4.276351422466748,
+      "total_views": 28342,
+      "total_likes": 1037
+    },
+    "instagram": {
+      "total_videos": 22,
+      "avg_views": 14555.105263157895,
+      "avg_likes": 864.0909090909091,
+      "avg_ir": 3.715046643000858,
+      "total_views": 276547,
+      "total_likes": 19010
+    }
+  },
+  "JP Saxe": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 764.0,
+      "avg_likes": 33.0,
+      "avg_ir": 4.5811518324607325,
+      "total_views": 764,
+      "total_likes": 33
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 9170.8,
+      "avg_likes": 286.4,
+      "avg_ir": 2.739843073422582,
+      "total_views": 45854,
+      "total_likes": 1432
+    }
+  },
+  "SHINee": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1045.0,
+      "avg_likes": 64.0,
+      "avg_ir": 6.315789473684211,
+      "total_views": 1045,
+      "total_likes": 64
+    }
+  },
+  "Matisse": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 41754.818181818184,
+      "avg_likes": 2888.3636363636365,
+      "avg_ir": 4.4011155213407225,
+      "total_views": 459303,
+      "total_likes": 31772
+    },
+    "instagram": {
+      "total_videos": 19,
+      "avg_views": 8032.4,
+      "avg_likes": 188.26315789473685,
+      "avg_ir": 1.706247998461049,
+      "total_views": 120486,
+      "total_likes": 3577
+    }
+  },
+  "Backstreet Boys": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 701657.5,
+      "avg_likes": 11335.0,
+      "avg_ir": 1.979601917690153,
+      "total_views": 1403315,
+      "total_likes": 22670
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6111.5,
+      "avg_likes": 198.5,
+      "avg_ir": 3.3056614443870407,
+      "total_views": 12223,
+      "total_likes": 397
+    }
+  },
+  "Giorgia": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2900000.0,
+      "avg_likes": 2942.0,
+      "avg_ir": 0.10224137931034484,
+      "total_views": 2900000,
+      "total_likes": 2942
+    }
+  },
+  "Ha*Ash": {
+    "tiktok": {
+      "total_videos": 45,
+      "avg_views": 11754.644444444444,
+      "avg_likes": 911.7111111111111,
+      "avg_ir": 6.69529553676933,
+      "total_views": 528959,
+      "total_likes": 41027
+    }
+  },
+  "Vicentico": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 521010.45454545453,
+      "avg_likes": 1338.8181818181818,
+      "avg_ir": 1.7891590607148238,
+      "total_views": 5731115,
+      "total_likes": 14727
+    }
+  },
+  "Reik": {
+    "tiktok": {
+      "total_videos": 39,
+      "avg_views": 3013.4871794871797,
+      "avg_likes": 115.58974358974359,
+      "avg_ir": 3.8340307660462063,
+      "total_views": 117526,
+      "total_likes": 4508
+    },
+    "instagram": {
+      "total_videos": 25,
+      "avg_views": 6719.928571428572,
+      "avg_likes": 135.0,
+      "avg_ir": 1.3801726059681036,
+      "total_views": 94079,
+      "total_likes": 3375
+    }
+  },
+  "Cristian": {
+    "tiktok": {
+      "total_videos": 27,
+      "avg_views": 36726.0,
+      "avg_likes": 2309.037037037037,
+      "avg_ir": 4.727639422986072,
+      "total_views": 991602,
+      "total_likes": 62344
+    }
+  },
+  "Emmanuel": {
+    "tiktok": {
+      "total_videos": 22,
+      "avg_views": 9510.227272727272,
+      "avg_likes": 437.3636363636364,
+      "avg_ir": 5.048778401840024,
+      "total_views": 209225,
+      "total_likes": 9622
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 663870.0,
+      "avg_likes": 15333.0,
+      "avg_ir": 2.3469956467380664,
+      "total_views": 663870,
+      "total_likes": 15333
+    }
+  },
+  "DENNIS": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 216400.0,
+      "avg_likes": 46400.0,
+      "avg_ir": 21.56977818853974,
+      "total_views": 216400,
+      "total_likes": 46400
+    }
+  },
+  "Boza": {
+    "tiktok": {
+      "total_videos": 13,
+      "avg_views": 3085.230769230769,
+      "avg_likes": 101.23076923076923,
+      "avg_ir": 3.528944190030626,
+      "total_views": 40108,
+      "total_likes": 1316
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 4534.0,
+      "avg_likes": 77.5,
+      "avg_ir": 1.4180571858993143,
+      "total_views": 13602,
+      "total_likes": 310
+    }
+  },
+  "Lali": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 32083.8,
+      "avg_likes": 1554.2,
+      "avg_ir": 5.439564978731407,
+      "total_views": 160419,
+      "total_likes": 7771
+    },
+    "instagram": {
+      "total_videos": 10,
+      "avg_views": 13874.5,
+      "avg_likes": 421.7,
+      "avg_ir": 3.1226619787780083,
+      "total_views": 138745,
+      "total_likes": 4217
+    }
+  },
+  "Addison Rae": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1009.0,
+      "avg_likes": 64.0,
+      "avg_ir": 6.640237859266601,
+      "total_views": 1009,
+      "total_likes": 64
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 10705.0,
+      "avg_likes": 329.6,
+      "avg_ir": 2.9312250156147552,
+      "total_views": 53525,
+      "total_likes": 1648
+    }
+  },
+  "LAY": {
+    "tiktok": {
+      "total_videos": 36,
+      "avg_views": 22903.444444444445,
+      "avg_likes": 2413.972222222222,
+      "avg_ir": 9.137159132504742,
+      "total_views": 824524,
+      "total_likes": 86903
+    }
+  },
+  "Jhosy": {
+    "tiktok": {
+      "total_videos": 20,
+      "avg_views": 11901.0,
+      "avg_likes": 1261.85,
+      "avg_ir": 4.643547759154057,
+      "total_views": 238020,
+      "total_likes": 25237
+    }
+  },
+  "Pambo": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 4172.5,
+      "avg_likes": 176.0,
+      "avg_ir": 5.410589343589435,
+      "total_views": 8345,
+      "total_likes": 352
+    }
+  },
+  "Sayuri & Sopholov": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 303500.0,
+      "avg_likes": 13100.0,
+      "avg_ir": 4.345963756177924,
+      "total_views": 303500,
+      "total_likes": 13100
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 30862.0,
+      "avg_likes": 2291.0,
+      "avg_ir": 7.439569697362453,
+      "total_views": 30862,
+      "total_likes": 2291
+    }
+  },
+  "Camila": {
+    "tiktok": {
+      "total_videos": 27,
+      "avg_views": 5274.62962962963,
+      "avg_likes": 379.74074074074076,
+      "avg_ir": 6.127677346377063,
+      "total_views": 142415,
+      "total_likes": 10253
+    },
+    "instagram": {
+      "total_videos": 15,
+      "avg_views": 7256.4,
+      "avg_likes": 120.06666666666666,
+      "avg_ir": 0.5821845185226652,
+      "total_views": 36282,
+      "total_likes": 1801
+    }
+  },
+  "EXID": {
+    "tiktok": {
+      "total_videos": 19,
+      "avg_views": 4010.315789473684,
+      "avg_likes": 92.10526315789474,
+      "avg_ir": 3.188825222108857,
+      "total_views": 76196,
+      "total_likes": 1750
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4881.0,
+      "avg_likes": 98.0,
+      "avg_ir": 2.048760499897562,
+      "total_views": 4881,
+      "total_likes": 98
+    }
+  },
+  "Santana": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 25784.5,
+      "avg_likes": 4259.5,
+      "avg_ir": 12.478601242645539,
+      "total_views": 51569,
+      "total_likes": 8519
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 7169.0,
+      "avg_likes": 148.0,
+      "avg_ir": 2.082083231608043,
+      "total_views": 14338,
+      "total_likes": 296
+    }
+  },
+  "Luck Ra": {
+    "tiktok": {
+      "total_videos": 9,
+      "avg_views": 22749.88888888889,
+      "avg_likes": 663.6666666666666,
+      "avg_ir": 3.65580324890595,
+      "total_views": 204749,
+      "total_likes": 5973
+    },
+    "instagram": {
+      "total_videos": 12,
+      "avg_views": 13058.666666666666,
+      "avg_likes": 519.25,
+      "avg_ir": 2.11618879621625,
+      "total_views": 117528,
+      "total_likes": 6231
+    }
+  },
+  "Ventino": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 20778.090909090908,
+      "avg_likes": 881.8181818181819,
+      "avg_ir": 5.87545508673571,
+      "total_views": 228559,
+      "total_likes": 9700
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 3537.0,
+      "avg_likes": 60.0,
+      "avg_ir": 0.4099519366694939,
+      "total_views": 3537,
+      "total_likes": 240
+    }
+  },
+  "Oscar Maydon": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 2286.2,
+      "avg_likes": 103.8,
+      "avg_ir": 4.7646058098629505,
+      "total_views": 11431,
+      "total_likes": 519
+    },
+    "instagram": {
+      "total_videos": 17,
+      "avg_views": 27643.2,
+      "avg_likes": 1064.7058823529412,
+      "avg_ir": 2.7179197534312864,
+      "total_views": 414648,
+      "total_likes": 18100
+    }
+  },
+  "Princesa Alba": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 9224.5,
+      "avg_likes": 975.0,
+      "avg_ir": 8.778158438853591,
+      "total_views": 18449,
+      "total_likes": 1950
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 7155.666666666667,
+      "avg_likes": 141.25,
+      "avg_ir": 1.29973236078012,
+      "total_views": 21467,
+      "total_likes": 565
+    }
+  },
+  "Katteyes": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 22600.0,
+      "avg_likes": 1085.0,
+      "avg_ir": 4.907079646017699,
+      "total_views": 22600,
+      "total_likes": 1085
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 21780.4,
+      "avg_likes": 685.4,
+      "avg_ir": 2.5677949114671508,
+      "total_views": 108902,
+      "total_likes": 3427
+    }
+  },
+  "Chayanne": {
+    "tiktok": {
+      "total_videos": 25,
+      "avg_views": 259993.12,
+      "avg_likes": 3175.52,
+      "avg_ir": 5.869842822958809,
+      "total_views": 6499828,
+      "total_likes": 79388
+    },
+    "instagram": {
+      "total_videos": 14,
+      "avg_views": 8221.857142857143,
+      "avg_likes": 297.92857142857144,
+      "avg_ir": 2.7657199928021763,
+      "total_views": 57553,
+      "total_likes": 4171
+    }
+  },
+  "JENNIE": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 5992.5,
+      "avg_likes": 1246.75,
+      "avg_ir": 15.740536659385233,
+      "total_views": 23970,
+      "total_likes": 4987
+    }
+  },
+  "Samantha Barrón": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1684.5,
+      "avg_likes": 66.5,
+      "avg_ir": 4.101538120870589,
+      "total_views": 3369,
+      "total_likes": 133
+    }
+  },
+  "Gera MX": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 4809.25,
+      "avg_likes": 352.5,
+      "avg_ir": 5.67399827175168,
+      "total_views": 19237,
+      "total_likes": 1410
+    },
+    "instagram": {
+      "total_videos": 14,
+      "avg_views": 68962.75,
+      "avg_likes": 627.9285714285714,
+      "avg_ir": 2.539667034397931,
+      "total_views": 827553,
+      "total_likes": 8791
+    }
+  },
+  "Hens": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 1092.0,
+      "avg_likes": 36.333333333333336,
+      "avg_ir": 3.5907399419978447,
+      "total_views": 3276,
+      "total_likes": 109
+    }
+  },
+  "Acapulco Tropical": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6307.0,
+      "avg_likes": 136.0,
+      "avg_ir": 2.1721896305692088,
+      "total_views": 6307,
+      "total_likes": 136
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 20161.0,
+      "avg_likes": 507.0,
+      "avg_ir": 2.51475621248946,
+      "total_views": 20161,
+      "total_likes": 507
+    }
+  },
+  "Kaay": {
+    "tiktok": {
+      "total_videos": 14,
+      "avg_views": 3195.3571428571427,
+      "avg_likes": 91.92857142857143,
+      "avg_ir": 3.689526041173834,
+      "total_views": 44735,
+      "total_likes": 1287
+    }
+  },
+  "ATEEZ": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1821.25,
+      "avg_likes": 72.5,
+      "avg_ir": 4.334023100005528,
+      "total_views": 7285,
+      "total_likes": 290
+    }
+  },
+  "Creepy Nuts": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 13100.0,
+      "avg_likes": 338.0,
+      "avg_ir": 2.6259541984732824,
+      "total_views": 13100,
+      "total_likes": 338
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 4973.333333333333,
+      "avg_likes": 177.0,
+      "avg_ir": 3.1453285998354215,
+      "total_views": 14920,
+      "total_likes": 531
+    }
+  },
+  "Mizzy Miles": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1238.0,
+      "avg_likes": 46.5,
+      "avg_ir": 3.9202393682479437,
+      "total_views": 4952,
+      "total_likes": 186
+    }
+  },
+  "Youka": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1037.5,
+      "avg_likes": 38.5,
+      "avg_ir": 4.072692930786057,
+      "total_views": 2075,
+      "total_likes": 77
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 4742.0,
+      "avg_likes": 78.875,
+      "avg_ir": 1.751763027489254,
+      "total_views": 37936,
+      "total_likes": 631
+    }
+  },
+  "Tyla": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 701609.5,
+      "avg_likes": 5791.5,
+      "avg_ir": 1.7323929459015668,
+      "total_views": 1403219,
+      "total_likes": 11583
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 79856.66666666667,
+      "avg_likes": 2422.285714285714,
+      "avg_ir": 2.0571216857190757,
+      "total_views": 239570,
+      "total_likes": 16956
+    }
+  },
+  "Marisela": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 5984.666666666667,
+      "avg_likes": 487.5,
+      "avg_ir": 6.485980737702977,
+      "total_views": 35908,
+      "total_likes": 2925
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3865.0,
+      "avg_likes": 56.0,
+      "avg_ir": 1.4489003880983182,
+      "total_views": 3865,
+      "total_likes": 56
+    }
+  },
+  "Mariah Carey": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1552.0,
+      "avg_likes": 55.0,
+      "avg_ir": 3.608247422680412,
+      "total_views": 1552,
+      "total_likes": 55
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 12473.0,
+      "avg_likes": 722.0,
+      "avg_ir": 5.812555119057163,
+      "total_views": 12473,
+      "total_likes": 722
+    }
+  },
+  "DOMELIPA": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2259.0,
+      "avg_likes": 60.5,
+      "avg_ir": 3.127853677364972,
+      "total_views": 4518,
+      "total_likes": 121
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 29697.25,
+      "avg_likes": 722.2,
+      "avg_ir": 4.322718376980263,
+      "total_views": 118789,
+      "total_likes": 3611
+    }
+  },
+  "Tiësto": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4092.0,
+      "avg_likes": 320.0,
+      "avg_ir": 7.893450635386119,
+      "total_views": 4092,
+      "total_likes": 320
+    }
+  },
+  "Leonel García": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 12922.375,
+      "avg_likes": 249.25,
+      "avg_ir": 3.680468513762692,
+      "total_views": 103379,
+      "total_likes": 1994
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6925.5,
+      "avg_likes": 60.0,
+      "avg_ir": 0.8666190545697188,
+      "total_views": 13851,
+      "total_likes": 120
+    }
+  },
+  "Soledad": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5232.0,
+      "avg_likes": 198.0,
+      "avg_ir": 3.841743119266055,
+      "total_views": 5232,
+      "total_likes": 198
+    }
+  },
+  "Gadiel": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2231.0,
+      "avg_likes": 47.0,
+      "avg_ir": 2.1515015688032273,
+      "total_views": 2231,
+      "total_likes": 47
+    }
+  },
+  "Becky G": {
+    "tiktok": {
+      "total_videos": 38,
+      "avg_views": 296370.7368421053,
+      "avg_likes": 39926.34210526316,
+      "avg_ir": 9.952992382293866,
+      "total_views": 11262088,
+      "total_likes": 1517201
+    },
+    "instagram": {
+      "total_videos": 16,
+      "avg_views": 9340.57142857143,
+      "avg_likes": 390.375,
+      "avg_ir": 2.5167880627368926,
+      "total_views": 130768,
+      "total_likes": 6246
+    }
+  },
+  "Rozalén": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 4417.833333333333,
+      "avg_likes": 217.33333333333334,
+      "avg_ir": 3.7386605797855244,
+      "total_views": 26507,
+      "total_likes": 1304
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 4667.5,
+      "avg_likes": 51.8,
+      "avg_ir": 0.4402255929518192,
+      "total_views": 9335,
+      "total_likes": 259
+    }
+  },
+  "Fend": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2249.0,
+      "avg_likes": 51.0,
+      "avg_ir": 2.401067140951534,
+      "total_views": 2249,
+      "total_likes": 51
+    }
+  },
+  "Roze Oficial": {
+    "tiktok": {
+      "total_videos": 29,
+      "avg_views": 5923.586206896552,
+      "avg_likes": 477.7931034482759,
+      "avg_ir": 5.1131501734328655,
+      "total_views": 171784,
+      "total_likes": 13856
+    },
+    "instagram": {
+      "total_videos": 49,
+      "avg_views": 23737.25641025641,
+      "avg_likes": 697.530612244898,
+      "avg_ir": 2.4444834861291125,
+      "total_views": 925753,
+      "total_likes": 34179
+    }
+  },
+  "Grupo Firme": {
+    "tiktok": {
+      "total_videos": 26,
+      "avg_views": 9556.0,
+      "avg_likes": 450.2307692307692,
+      "avg_ir": 4.787950639978242,
+      "total_views": 248456,
+      "total_likes": 11706
+    }
+  },
+  "Nickzzy": {
+    "tiktok": {
+      "total_videos": 9,
+      "avg_views": 5985.666666666667,
+      "avg_likes": 130.66666666666666,
+      "avg_ir": 2.2904537925090436,
+      "total_views": 53871,
+      "total_likes": 1176
+    }
+  },
+  "Dayvi": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1500000.0,
+      "avg_likes": 2880.0,
+      "avg_ir": 0.19286666666666666,
+      "total_views": 1500000,
+      "total_likes": 2880
+    }
+  },
+  "FIFTY FIFTY": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 43000.0,
+      "avg_likes": 6852.0,
+      "avg_ir": 16.386046511627907,
+      "total_views": 43000,
+      "total_likes": 6852
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 5544.333333333333,
+      "avg_likes": 179.22222222222223,
+      "avg_ir": 3.1145317048847696,
+      "total_views": 49899,
+      "total_likes": 1613
+    }
+  },
+  "Ana Gabriel": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1116.5,
+      "avg_likes": 61.25,
+      "avg_ir": 5.701273752162534,
+      "total_views": 4466,
+      "total_likes": 245
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 7166.666666666667,
+      "avg_likes": 221.33333333333334,
+      "avg_ir": 2.9893986601626885,
+      "total_views": 21500,
+      "total_likes": 664
+    }
+  },
+  "AVAION": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3100000.0,
+      "avg_likes": 5779.0,
+      "avg_ir": 0.1872258064516129,
+      "total_views": 3100000,
+      "total_likes": 5779
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 101.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 101
+    }
+  },
+  "Goyo": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2289.5,
+      "avg_likes": 69.5,
+      "avg_ir": 3.240272127382088,
+      "total_views": 4579,
+      "total_likes": 139
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 8147.6,
+      "avg_likes": 111.5,
+      "avg_ir": 1.2692841641585437,
+      "total_views": 40738,
+      "total_likes": 669
+    }
+  },
+  "HUGEL": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 4674.0,
+      "avg_likes": 149.0,
+      "avg_ir": 2.114666083048055,
+      "total_views": 18696,
+      "total_likes": 596
+    }
+  },
+  "Dharius": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 9042.0,
+      "avg_likes": 367.6666666666667,
+      "avg_ir": 4.559638379830541,
+      "total_views": 27126,
+      "total_likes": 1103
+    }
+  },
+  "Little Mix": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1591.5,
+      "avg_likes": 32.0,
+      "avg_ir": 3.155672444398037,
+      "total_views": 3183,
+      "total_likes": 64
+    }
+  },
+  "KAI": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 26197.5,
+      "avg_likes": 6462.5,
+      "avg_ir": 14.063547892315016,
+      "total_views": 52395,
+      "total_likes": 12925
+    }
+  },
+  "RK": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 6538.75,
+      "avg_likes": 283.0,
+      "avg_ir": 4.490148946213614,
+      "total_views": 26155,
+      "total_likes": 1132
+    }
+  },
+  "Virus": {
+    "tiktok": {
+      "total_videos": 21,
+      "avg_views": 80018.52380952382,
+      "avg_likes": 9008.857142857143,
+      "avg_ir": 6.098778611523991,
+      "total_views": 1680389,
+      "total_likes": 189186
+    }
+  },
+  "Fey": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 7429.5,
+      "avg_likes": 681.0,
+      "avg_ir": 10.814001250449973,
+      "total_views": 14859,
+      "total_likes": 1362
+    }
+  },
+  "Central Cee": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1414.5,
+      "avg_likes": 57.5,
+      "avg_ir": 5.0871167380619315,
+      "total_views": 2829,
+      "total_likes": 115
+    }
+  },
+  "MARO": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 6004.818181818182,
+      "avg_likes": 248.0,
+      "avg_ir": 4.1773760865528935,
+      "total_views": 66053,
+      "total_likes": 2728
+    }
+  },
+  "Axel": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 597079.6,
+      "avg_likes": 34010.7,
+      "avg_ir": 3.259853375876495,
+      "total_views": 5970796,
+      "total_likes": 340107
+    }
+  },
+  "Andresse": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 41250.333333333336,
+      "avg_likes": 4284.333333333333,
+      "avg_ir": 7.876849859080983,
+      "total_views": 247502,
+      "total_likes": 25706
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 2712.5,
+      "avg_likes": 52.5,
+      "avg_ir": 0.5097961558371142,
+      "total_views": 5425,
+      "total_likes": 315
+    }
+  },
+  "Sia": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 4582.0,
+      "avg_likes": 110.5,
+      "avg_ir": 2.4557379611065797,
+      "total_views": 9164,
+      "total_likes": 221
+    }
+  },
+  "Train": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1505.0,
+      "avg_likes": 30.0,
+      "avg_ir": 1.9933554817275747,
+      "total_views": 1505,
+      "total_likes": 30
+    }
+  },
+  "Miranda!": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 2593.3333333333335,
+      "avg_likes": 384.6666666666667,
+      "avg_ir": 12.888774132638538,
+      "total_views": 7780,
+      "total_likes": 1154
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 14077.2,
+      "avg_likes": 940.8571428571429,
+      "avg_ir": 2.495823845184945,
+      "total_views": 70386,
+      "total_likes": 6586
+    }
+  },
+  "Bronco": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 2396.6666666666665,
+      "avg_likes": 45.666666666666664,
+      "avg_ir": 1.7449181371533644,
+      "total_views": 7190,
+      "total_likes": 137
+    }
+  },
+  "Cri-Cri": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 28600.0,
+      "avg_likes": 1025.0,
+      "avg_ir": 3.583916083916084,
+      "total_views": 28600,
+      "total_likes": 1025
+    }
+  },
+  "Soley": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 3317.8,
+      "avg_likes": 193.4,
+      "avg_ir": 4.713779628519032,
+      "total_views": 16589,
+      "total_likes": 967
+    }
+  },
+  "SAIKO": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 722.5,
+      "avg_likes": 36.5,
+      "avg_ir": 5.4275481183398435,
+      "total_views": 1445,
+      "total_likes": 73
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 234.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 234
+    }
+  },
+  "Future": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 2039.25,
+      "avg_likes": 57.25,
+      "avg_ir": 2.7427845703096376,
+      "total_views": 8157,
+      "total_likes": 229
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 8371.25,
+      "avg_likes": 363.3333333333333,
+      "avg_ir": 3.3780896907460085,
+      "total_views": 33485,
+      "total_likes": 2180
+    }
+  },
+  "Pesado": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 5179.0,
+      "avg_likes": 162.25,
+      "avg_ir": 3.3083821777496514,
+      "total_views": 20716,
+      "total_likes": 649
+    }
+  },
+  "George Ezra": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 4264.666666666667,
+      "avg_likes": 93.33333333333333,
+      "avg_ir": 2.6908168762580083,
+      "total_views": 12794,
+      "total_likes": 280
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 54.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 108
+    }
+  },
+  "Barbarela": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 1309.5,
+      "avg_likes": 36.833333333333336,
+      "avg_ir": 3.797404387858894,
+      "total_views": 7857,
+      "total_likes": 221
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 0.0,
+      "avg_likes": 119.25,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 477
+    }
+  },
+  "RIKI": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 4532.75,
+      "avg_likes": 389.25,
+      "avg_ir": 10.075706884971686,
+      "total_views": 18131,
+      "total_likes": 1557
+    }
+  },
+  "Julieta Venegas": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1839.0,
+      "avg_likes": 88.0,
+      "avg_ir": 4.893964110929853,
+      "total_views": 1839,
+      "total_likes": 88
+    }
+  },
+  "Allison": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1176.0,
+      "avg_likes": 38.5,
+      "avg_ir": 3.2577214131315357,
+      "total_views": 2352,
+      "total_likes": 77
+    }
+  },
+  "Ahri": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 11477.142857142857,
+      "avg_likes": 924.4285714285714,
+      "avg_ir": 5.938382596726855,
+      "total_views": 80340,
+      "total_likes": 6471
+    }
+  },
+  "Caztro": {
+    "tiktok": {
+      "total_videos": 16,
+      "avg_views": 64199.4375,
+      "avg_likes": 1869.9375,
+      "avg_ir": 3.6371788329675345,
+      "total_views": 1027191,
+      "total_likes": 29919
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 117.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 117
+    }
+  },
+  "La Oreja de Van Gogh": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 5076.0,
+      "avg_likes": 325.0,
+      "avg_ir": 6.1785974183281995,
+      "total_views": 15228,
+      "total_likes": 975
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 32187.0,
+      "avg_likes": 1027.0,
+      "avg_ir": 3.203156553888216,
+      "total_views": 32187,
+      "total_likes": 1027
+    }
+  },
+  "iLe": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 2984.8,
+      "avg_likes": 228.8,
+      "avg_ir": 7.0553297884653645,
+      "total_views": 14924,
+      "total_likes": 1144
+    }
+  },
+  "Darell": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 834218.5,
+      "avg_likes": 39953.25,
+      "avg_ir": 3.390157501244663,
+      "total_views": 3336874,
+      "total_likes": 159813
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 3008.6666666666665,
+      "avg_likes": 93.75,
+      "avg_ir": 1.0736800516604785,
+      "total_views": 9026,
+      "total_likes": 375
+    }
+  },
+  "Beyoncé": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 3144.6,
+      "avg_likes": 151.4,
+      "avg_ir": 4.366098861175425,
+      "total_views": 15723,
+      "total_likes": 757
+    }
+  },
+  "Paloma Mami": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 3694.0,
+      "avg_likes": 137.5,
+      "avg_ir": 3.462561659757749,
+      "total_views": 7388,
+      "total_likes": 275
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 22950.333333333332,
+      "avg_likes": 921.0,
+      "avg_ir": 4.2619451902613195,
+      "total_views": 68851,
+      "total_likes": 2763
+    }
+  },
+  "Gusttavo Lima": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 613.0,
+      "avg_likes": 11.0,
+      "avg_ir": 1.957585644371941,
+      "total_views": 613,
+      "total_likes": 11
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4416.0,
+      "avg_likes": 254.0,
+      "avg_ir": 5.797101449275362,
+      "total_views": 4416,
+      "total_likes": 254
+    }
+  },
+  "Justice": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 5084.0,
+      "avg_likes": 124.0,
+      "avg_ir": 3.171635293184525,
+      "total_views": 10168,
+      "total_likes": 248
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 3549.0,
+      "avg_likes": 46.666666666666664,
+      "avg_ir": 1.4555288161234214,
+      "total_views": 10647,
+      "total_likes": 140
+    }
+  },
+  "Alesso": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 8365.0,
+      "avg_likes": 174.0,
+      "avg_ir": 2.307232516437537,
+      "total_views": 8365,
+      "total_likes": 174
+    }
+  },
+  "Perrie": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 12640.666666666666,
+      "avg_likes": 1068.6666666666667,
+      "avg_ir": 5.663258045089235,
+      "total_views": 37922,
+      "total_likes": 3206
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 3674.5,
+      "avg_likes": 121.33333333333333,
+      "avg_ir": 0.9820763501945277,
+      "total_views": 14698,
+      "total_likes": 1092
+    }
+  },
+  "ALI": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 90682.6,
+      "avg_likes": 1677.6,
+      "avg_ir": 2.679311419484077,
+      "total_views": 453413,
+      "total_likes": 8388
+    }
+  },
+  "Wham!": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2952.0,
+      "avg_likes": 138.0,
+      "avg_ir": 4.8102981029810294,
+      "total_views": 2952,
+      "total_likes": 138
+    }
+  },
+  "Diferente Nivel": {
+    "tiktok": {
+      "total_videos": 12,
+      "avg_views": 4161.166666666667,
+      "avg_likes": 187.5,
+      "avg_ir": 3.806684530351241,
+      "total_views": 49934,
+      "total_likes": 2250
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 3608.5,
+      "avg_likes": 57.666666666666664,
+      "avg_ir": 0.39106176113136665,
+      "total_views": 7217,
+      "total_likes": 346
+    }
+  },
+  "Avicii": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 774.0,
+      "avg_likes": 53.0,
+      "avg_ir": 10.981912144702841,
+      "total_views": 774,
+      "total_likes": 53
+    }
+  },
+  "Noel Schajris": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 769.0,
+      "avg_likes": 57.0,
+      "avg_ir": 7.412223667100131,
+      "total_views": 769,
+      "total_likes": 57
+    }
+  },
+  "Tokischa": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 978949.2857142857,
+      "avg_likes": 49623.857142857145,
+      "avg_ir": 6.359890599722009,
+      "total_views": 6852645,
+      "total_likes": 347367
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 372.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 744
+    }
+  },
+  "Ozuna": {
+    "tiktok": {
+      "total_videos": 22,
+      "avg_views": 61147.545454545456,
+      "avg_likes": 3282.3636363636365,
+      "avg_ir": 5.45467680663462,
+      "total_views": 1345246,
+      "total_likes": 72212
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 8194.0,
+      "avg_likes": 271.125,
+      "avg_ir": 1.4155509117709686,
+      "total_views": 32776,
+      "total_likes": 2169
+    }
+  },
+  "Marshmello": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 1979.1,
+      "avg_likes": 71.0,
+      "avg_ir": 4.080981147873192,
+      "total_views": 19791,
+      "total_likes": 710
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3861.0,
+      "avg_likes": 115.0,
+      "avg_ir": 3.004403004403004,
+      "total_views": 3861,
+      "total_likes": 115
+    }
+  },
+  "Debi Nova": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4321.0,
+      "avg_likes": 85.0,
+      "avg_ir": 2.77713492247165,
+      "total_views": 4321,
+      "total_likes": 85
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 5167.6,
+      "avg_likes": 77.88888888888889,
+      "avg_ir": 0.8292808855427458,
+      "total_views": 25838,
+      "total_likes": 701
+    }
+  },
+  "Måneskin": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 899.0,
+      "avg_likes": 28.0,
+      "avg_ir": 5.1265716803114705,
+      "total_views": 2697,
+      "total_likes": 84
+    }
+  },
+  "MK": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 5053.125,
+      "avg_likes": 414.0,
+      "avg_ir": 5.589985953607313,
+      "total_views": 40425,
+      "total_likes": 3312
+    }
+  },
+  "Dido": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1762.0,
+      "avg_likes": 69.5,
+      "avg_ir": 4.592541699210663,
+      "total_views": 3524,
+      "total_likes": 139
+    }
+  },
+  "Capital Inicial": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5502.0,
+      "avg_likes": 111.0,
+      "avg_ir": 2.1264994547437297,
+      "total_views": 5502,
+      "total_likes": 111
+    }
+  },
+  "Pole.": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 4800.0,
+      "avg_likes": 533.0,
+      "avg_ir": 6.398486436823798,
+      "total_views": 14400,
+      "total_likes": 1599
+    }
+  },
+  "Ghetto Kids": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 11195.0,
+      "avg_likes": 1033.5,
+      "avg_ir": 6.764837821983943,
+      "total_views": 67170,
+      "total_likes": 6201
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 66.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 66
+    }
+  },
+  "Javier Ramirez": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1827.0,
+      "avg_likes": 29.0,
+      "avg_ir": 1.751505199781062,
+      "total_views": 1827,
+      "total_likes": 29
+    }
+  },
+  "Vengaboys": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3731.0,
+      "avg_likes": 132.0,
+      "avg_ir": 3.6451353524524257,
+      "total_views": 3731,
+      "total_likes": 132
+    }
+  },
+  "CNCO": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 4950.8,
+      "avg_likes": 865.3,
+      "avg_ir": 12.19699579941626,
+      "total_views": 49508,
+      "total_likes": 8653
+    }
+  },
+  "Farruko": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 7042.5,
+      "avg_likes": 114.5,
+      "avg_ir": 1.8979278730884381,
+      "total_views": 14085,
+      "total_likes": 229
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 4524.857142857143,
+      "avg_likes": 68.42857142857143,
+      "avg_ir": 1.526991950654041,
+      "total_views": 31674,
+      "total_likes": 479
+    }
+  },
+  "Arjan": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 13026.6,
+      "avg_likes": 705.8,
+      "avg_ir": 5.095723337865232,
+      "total_views": 65133,
+      "total_likes": 3529
+    }
+  },
+  "Sky Rompiendo": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1138.0,
+      "avg_likes": 39.0,
+      "avg_ir": 3.690685413005272,
+      "total_views": 1138,
+      "total_likes": 39
+    }
+  },
+  "Wisin": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 4044.1428571428573,
+      "avg_likes": 121.57142857142857,
+      "avg_ir": 3.7019953510212136,
+      "total_views": 28309,
+      "total_likes": 851
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 72.5,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 145
+    }
+  },
+  "Daft Punk": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6900000.0,
+      "avg_likes": 12700.0,
+      "avg_ir": 0.18504347826086956,
+      "total_views": 6900000,
+      "total_likes": 12700
+    }
+  },
+  "HUMBE": {
+    "tiktok": {
+      "total_videos": 62,
+      "avg_views": 6033.870967741936,
+      "avg_likes": 515.1451612903226,
+      "avg_ir": 6.769620019808129,
+      "total_views": 374100,
+      "total_likes": 31939
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 247.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 247
+    }
+  },
+  "Luis Enrique": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 2429.6666666666665,
+      "avg_likes": 116.0,
+      "avg_ir": 4.523848094419086,
+      "total_views": 7289,
+      "total_likes": 348
+    }
+  },
+  "PNAU": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5368.0,
+      "avg_likes": 167.0,
+      "avg_ir": 3.315946348733234,
+      "total_views": 5368,
+      "total_likes": 167
+    }
+  },
+  "Jenni Rivera": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2590.0,
+      "avg_likes": 125.0,
+      "avg_ir": 4.934154032573538,
+      "total_views": 5180,
+      "total_likes": 250
+    },
+    "instagram": {
+      "total_videos": 23,
+      "avg_views": 11430.869565217392,
+      "avg_likes": 1049.0,
+      "avg_ir": 9.334653660908343,
+      "total_views": 262910,
+      "total_likes": 24127
+    }
+  },
+  "USHER": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5068.0,
+      "avg_likes": 987.0,
+      "avg_ir": 19.751381215469614,
+      "total_views": 5068,
+      "total_likes": 987
+    }
+  },
+  "THE BOX": {
+    "tiktok": {
+      "total_videos": 9,
+      "avg_views": 16736.444444444445,
+      "avg_likes": 2444.1111111111113,
+      "avg_ir": 3.960964009594979,
+      "total_views": 150628,
+      "total_likes": 21997
+    }
+  },
+  "La Lupita": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 3848.4,
+      "avg_likes": 239.2,
+      "avg_ir": 5.9230659929975795,
+      "total_views": 19242,
+      "total_likes": 1196
+    }
+  },
+  "Berlin": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 4370.5,
+      "avg_likes": 677.5,
+      "avg_ir": 9.933743879993308,
+      "total_views": 8741,
+      "total_likes": 1355
+    }
+  },
+  "Manuel Turizo": {
+    "tiktok": {
+      "total_videos": 16,
+      "avg_views": 13000.0,
+      "avg_likes": 515.625,
+      "avg_ir": 5.166605664151422,
+      "total_views": 208000,
+      "total_likes": 8250
+    },
+    "instagram": {
+      "total_videos": 26,
+      "avg_views": 9864.238095238095,
+      "avg_likes": 253.80769230769232,
+      "avg_ir": 2.262098760934291,
+      "total_views": 207149,
+      "total_likes": 6599
+    }
+  },
+  "Miley Cyrus": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1541.0,
+      "avg_likes": 73.25,
+      "avg_ir": 3.98246721417482,
+      "total_views": 6164,
+      "total_likes": 293
+    },
+    "instagram": {
+      "total_videos": 11,
+      "avg_views": 7987.5,
+      "avg_likes": 470.72727272727275,
+      "avg_ir": 2.9054600165245272,
+      "total_views": 63900,
+      "total_likes": 5178
+    }
+  },
+  "Yahritza Y Su Esencia": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1100000.0,
+      "avg_likes": 128100.0,
+      "avg_ir": 11.670181818181819,
+      "total_views": 1100000,
+      "total_likes": 128100
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6674.0,
+      "avg_likes": 236.0,
+      "avg_ir": 0.7416841474378184,
+      "total_views": 6674,
+      "total_likes": 472
+    }
+  },
+  "Ricardo Arjona": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3273.0,
+      "avg_likes": 72.0,
+      "avg_ir": 2.2609227008860375,
+      "total_views": 3273,
+      "total_likes": 72
+    }
+  },
+  "ROSALÍA": {
+    "tiktok": {
+      "total_videos": 35,
+      "avg_views": 82277.54285714286,
+      "avg_likes": 7504.0,
+      "avg_ir": 9.092773105926081,
+      "total_views": 2879714,
+      "total_likes": 262640
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 56536.555555555555,
+      "avg_likes": 8073.111111111111,
+      "avg_ir": 5.7062388985575785,
+      "total_views": 508829,
+      "total_likes": 72658
+    }
+  },
+  "Virlan Garcia": {
+    "tiktok": {
+      "total_videos": 15,
+      "avg_views": 22004.933333333334,
+      "avg_likes": 452.53333333333336,
+      "avg_ir": 3.315562691592292,
+      "total_views": 330074,
+      "total_likes": 6788
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 3358.8333333333335,
+      "avg_likes": 70.125,
+      "avg_ir": 1.248299495532911,
+      "total_views": 20153,
+      "total_likes": 561
+    }
+  },
+  "Meghan Trainor": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2174.0,
+      "avg_likes": 118.0,
+      "avg_ir": 5.565777368905244,
+      "total_views": 2174,
+      "total_likes": 118
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 5498.5,
+      "avg_likes": 276.14285714285717,
+      "avg_ir": 0.391655754860928,
+      "total_views": 10997,
+      "total_likes": 1933
+    }
+  },
+  "Lucero": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 9055.166666666666,
+      "avg_likes": 761.5,
+      "avg_ir": 6.694245203230164,
+      "total_views": 54331,
+      "total_likes": 4569
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3307.0,
+      "avg_likes": 68.0,
+      "avg_ir": 2.1469609918355004,
+      "total_views": 3307,
+      "total_likes": 68
+    }
+  },
+  "Alicia Keys": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2709.0,
+      "avg_likes": 532.0,
+      "avg_ir": 13.55142678437766,
+      "total_views": 5418,
+      "total_likes": 1064
+    }
+  },
+  "Cesia Sáenz": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 5420.5,
+      "avg_likes": 932.0,
+      "avg_ir": 20.620805181428302,
+      "total_views": 10841,
+      "total_likes": 1864
+    }
+  },
+  "Rusherking": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1209.0,
+      "avg_likes": 45.0,
+      "avg_ir": 3.887510339123242,
+      "total_views": 1209,
+      "total_likes": 45
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 5775.25,
+      "avg_likes": 88.5,
+      "avg_ir": 1.5459269046637825,
+      "total_views": 23101,
+      "total_likes": 354
+    }
+  },
+  "Dyango": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2555.0,
+      "avg_likes": 387.0,
+      "avg_ir": 15.733855185909981,
+      "total_views": 2555,
+      "total_likes": 387
+    }
+  },
+  "Río Roma": {
+    "tiktok": {
+      "total_videos": 16,
+      "avg_views": 4577.0,
+      "avg_likes": 194.8125,
+      "avg_ir": 6.115959469563561,
+      "total_views": 73232,
+      "total_likes": 3117
+    },
+    "instagram": {
+      "total_videos": 16,
+      "avg_views": 7195.25,
+      "avg_likes": 153.8125,
+      "avg_ir": 1.790048411104553,
+      "total_views": 86343,
+      "total_likes": 2461
+    }
+  },
+  "Juan Gabriel": {
+    "tiktok": {
+      "total_videos": 12,
+      "avg_views": 627.4166666666666,
+      "avg_likes": 19.75,
+      "avg_ir": 3.549596267943073,
+      "total_views": 7529,
+      "total_likes": 237
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 10219.0,
+      "avg_likes": 343.0,
+      "avg_ir": 3.434778354046384,
+      "total_views": 10219,
+      "total_likes": 343
+    }
+  },
+  "SAYGRACE": {
+    "tiktok": {
+      "total_videos": 13,
+      "avg_views": 5913.846153846154,
+      "avg_likes": 353.2307692307692,
+      "avg_ir": 4.315049247408502,
+      "total_views": 76880,
+      "total_likes": 4592
+    }
+  },
+  "Pepe Aguilar": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1149.0,
+      "avg_likes": 27.0,
+      "avg_ir": 2.5239338555265447,
+      "total_views": 1149,
+      "total_likes": 27
+    }
+  },
+  "\"Earth, Wind & Fire\"": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 936.0,
+      "avg_likes": 23.0,
+      "avg_ir": 2.4572649572649574,
+      "total_views": 936,
+      "total_likes": 23
+    }
+  },
+  "TIAGO IORC": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 774.0,
+      "avg_likes": 27.0,
+      "avg_ir": 3.488372093023256,
+      "total_views": 774,
+      "total_likes": 27
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3523.0,
+      "avg_likes": 58.5,
+      "avg_ir": 1.7020046947783707,
+      "total_views": 7046,
+      "total_likes": 117
+    }
+  },
+  "Mimicat": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 572.0,
+      "avg_likes": 19.5,
+      "avg_ir": 4.419103587632549,
+      "total_views": 2288,
+      "total_likes": 78
+    }
+  },
+  "Louse": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1652.0,
+      "avg_likes": 66.0,
+      "avg_ir": 4.116222760290557,
+      "total_views": 1652,
+      "total_likes": 66
+    }
+  },
+  "Nicki Nicole": {
+    "tiktok": {
+      "total_videos": 9,
+      "avg_views": 2920.777777777778,
+      "avg_likes": 117.11111111111111,
+      "avg_ir": 3.1421349551338933,
+      "total_views": 26287,
+      "total_likes": 1054
+    },
+    "instagram": {
+      "total_videos": 15,
+      "avg_views": 15220.5,
+      "avg_likes": 550.7333333333333,
+      "avg_ir": 2.500264468293402,
+      "total_views": 152205,
+      "total_likes": 8261
+    }
+  },
+  "Leona Lewis": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3997.0,
+      "avg_likes": 228.0,
+      "avg_ir": 5.804353264948712,
+      "total_views": 3997,
+      "total_likes": 228
+    }
+  },
+  "Alex Fernández": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2188.0,
+      "avg_likes": 37.5,
+      "avg_ir": 2.358365994676166,
+      "total_views": 4376,
+      "total_likes": 75
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 0.0,
+      "avg_likes": 95.75,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 383
+    }
+  },
+  "Dvicio": {
+    "tiktok": {
+      "total_videos": 17,
+      "avg_views": 4597.64705882353,
+      "avg_likes": 124.52941176470588,
+      "avg_ir": 3.0807378507649794,
+      "total_views": 78160,
+      "total_likes": 2117
+    }
+  },
+  "NATTI NATASHA": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 155268.9090909091,
+      "avg_likes": 22664.090909090908,
+      "avg_ir": 9.114803659113575,
+      "total_views": 1707958,
+      "total_likes": 249305
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 6668.6,
+      "avg_likes": 300.6666666666667,
+      "avg_ir": 1.5746483684516965,
+      "total_views": 33343,
+      "total_likes": 2706
+    }
+  },
+  "Ramon Vega": {
+    "tiktok": {
+      "total_videos": 11,
+      "avg_views": 16685.909090909092,
+      "avg_likes": 2270.3636363636365,
+      "avg_ir": 11.143019306818674,
+      "total_views": 183545,
+      "total_likes": 24974
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 11055.5,
+      "avg_likes": 349.0,
+      "avg_ir": 1.7972297376440212,
+      "total_views": 44222,
+      "total_likes": 2094
+    }
+  },
+  "C. Tangana": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 6053.666666666667,
+      "avg_likes": 607.6666666666666,
+      "avg_ir": 8.979688752263307,
+      "total_views": 18161,
+      "total_likes": 1823
+    }
+  },
+  "Maejor": {
+    "tiktok": {
+      "total_videos": 15,
+      "avg_views": 4529.6,
+      "avg_likes": 232.73333333333332,
+      "avg_ir": 5.858820844129496,
+      "total_views": 67944,
+      "total_likes": 3491
+    }
+  },
+  "Jeanette": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 8304.0,
+      "avg_likes": 772.0,
+      "avg_ir": 9.368978805394992,
+      "total_views": 8304,
+      "total_likes": 772
+    }
+  },
+  "Seafret": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1141.0,
+      "avg_likes": 33.0,
+      "avg_ir": 2.963888599627431,
+      "total_views": 2282,
+      "total_likes": 66
+    }
+  },
+  "Dean Martin": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5614.0,
+      "avg_likes": 643.0,
+      "avg_ir": 11.738510865692911,
+      "total_views": 5614,
+      "total_likes": 643
+    }
+  },
+  "Jayrick": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 5728.0,
+      "avg_likes": 206.33333333333334,
+      "avg_ir": 3.7319443773099685,
+      "total_views": 17184,
+      "total_likes": 619
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 131.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 262
+    }
+  },
+  "CT MUSIC": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 5079.166666666667,
+      "avg_likes": 394.1666666666667,
+      "avg_ir": 7.966550991274417,
+      "total_views": 30475,
+      "total_likes": 2365
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 53.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 106
+    }
+  },
+  "Extreme": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 11900.0,
+      "avg_likes": 2666.0,
+      "avg_ir": 22.66386554621849,
+      "total_views": 11900,
+      "total_likes": 2666
+    }
+  },
+  "Matuê": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 5672.571428571428,
+      "avg_likes": 179.14285714285714,
+      "avg_ir": 3.7268145001191977,
+      "total_views": 39708,
+      "total_likes": 1254
+    }
+  },
+  "VIZE": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1834.0,
+      "avg_likes": 61.0,
+      "avg_ir": 3.508419234665314,
+      "total_views": 3668,
+      "total_likes": 122
+    }
+  },
+  "Elsa y Elmar": {
+    "tiktok": {
+      "total_videos": 28,
+      "avg_views": 3644.3214285714284,
+      "avg_likes": 145.96428571428572,
+      "avg_ir": 3.637988093876888,
+      "total_views": 102041,
+      "total_likes": 4087
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 72.5,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 145
+    }
+  },
+  "Dove Cameron": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 81428.1,
+      "avg_likes": 17151.8,
+      "avg_ir": 18.027530764058007,
+      "total_views": 814281,
+      "total_likes": 171518
+    }
+  },
+  "Wisin & Yandel": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 909.0,
+      "avg_likes": 36.25,
+      "avg_ir": 3.998373605354133,
+      "total_views": 3636,
+      "total_likes": 145
+    }
+  },
+  "Gerardo Ortiz": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 2526.2,
+      "avg_likes": 36.0,
+      "avg_ir": 1.841366435681131,
+      "total_views": 12631,
+      "total_likes": 180
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 4553.666666666667,
+      "avg_likes": 74.66666666666667,
+      "avg_ir": 1.7117128284945495,
+      "total_views": 13661,
+      "total_likes": 224
+    }
+  },
+  "Mariangela": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4190.0,
+      "avg_likes": 570.0,
+      "avg_ir": 14.797136038186157,
+      "total_views": 4190,
+      "total_likes": 570
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 65.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 65
+    }
+  },
+  "Tedua": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 1586.0,
+      "avg_likes": 229.0,
+      "avg_ir": 10.54029225771295,
+      "total_views": 4758,
+      "total_likes": 687
+    }
+  },
+  "OMI": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 6939.5,
+      "avg_likes": 57.5,
+      "avg_ir": 1.3982196181944224,
+      "total_views": 13879,
+      "total_likes": 115
+    }
+  },
+  "Ruth B.": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5270.0,
+      "avg_likes": 125.0,
+      "avg_ir": 2.4098671726755216,
+      "total_views": 5270,
+      "total_likes": 125
+    }
+  },
+  "The Kid LAROI": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 2002.5,
+      "avg_likes": 31.5,
+      "avg_ir": 1.9608837038897393,
+      "total_views": 8010,
+      "total_likes": 126
+    },
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 8520.6,
+      "avg_likes": 134.5,
+      "avg_ir": 1.3015531601241286,
+      "total_views": 42603,
+      "total_likes": 807
+    }
+  },
+  "Sin Bandera": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 5366.0,
+      "avg_likes": 221.5,
+      "avg_ir": 3.8602487235566665,
+      "total_views": 10732,
+      "total_likes": 443
+    }
+  },
+  "GIVĒON": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5358.0,
+      "avg_likes": 81.0,
+      "avg_ir": 1.6050765210899591,
+      "total_views": 5358,
+      "total_likes": 81
+    }
+  },
+  "Piero": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 1675.25,
+      "avg_likes": 30.75,
+      "avg_ir": 2.0833786110566943,
+      "total_views": 6701,
+      "total_likes": 123
+    }
+  },
+  "Khalid": {
+    "tiktok": {
+      "total_videos": 7,
+      "avg_views": 4043.4285714285716,
+      "avg_likes": 99.42857142857143,
+      "avg_ir": 2.578791592112309,
+      "total_views": 28304,
+      "total_likes": 696
+    },
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 3033.5,
+      "avg_likes": 57.0,
+      "avg_ir": 0.9027649921870206,
+      "total_views": 6067,
+      "total_likes": 171
+    }
+  },
+  "Adele": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 6318.8,
+      "avg_likes": 393.8,
+      "avg_ir": 6.49968781684087,
+      "total_views": 31594,
+      "total_likes": 1969
+    }
+  },
+  "Selena Gomez": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 140900.0,
+      "avg_likes": 24600.0,
+      "avg_ir": 17.572036905606815,
+      "total_views": 140900,
+      "total_likes": 24600
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 8546.0,
+      "avg_likes": 243.0,
+      "avg_ir": 2.843435525391996,
+      "total_views": 8546,
+      "total_likes": 243
+    }
+  },
+  "Doja Cat": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 18501.6,
+      "avg_likes": 3269.5,
+      "avg_ir": 13.259001276872237,
+      "total_views": 185016,
+      "total_likes": 32695
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 11496.42857142857,
+      "avg_likes": 699.1428571428571,
+      "avg_ir": 5.248189612019255,
+      "total_views": 80475,
+      "total_likes": 4894
+    }
+  },
+  "Francesca Michielin": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 3868.5,
+      "avg_likes": 188.25,
+      "avg_ir": 4.871747834402691,
+      "total_views": 30948,
+      "total_likes": 1506
+    }
+  },
+  "ChocQuibTown": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4559.0,
+      "avg_likes": 302.0,
+      "avg_ir": 7.238429480149156,
+      "total_views": 4559,
+      "total_likes": 302
+    }
+  },
+  "Deorro": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 7247.0,
+      "avg_likes": 579.0,
+      "avg_ir": 8.058506968400717,
+      "total_views": 7247,
+      "total_likes": 579
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 254.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 254
+    }
+  },
+  "Diego Herrera": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 196800.0,
+      "avg_likes": 39700.0,
+      "avg_ir": 20.632113821138212,
+      "total_views": 196800,
+      "total_likes": 39700
+    }
+  },
+  "MELER": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 8708.0,
+      "avg_likes": 619.0,
+      "avg_ir": 7.3380799265043635,
+      "total_views": 8708,
+      "total_likes": 619
+    }
+  },
+  "Camila Cabello": {
+    "tiktok": {
+      "total_videos": 12,
+      "avg_views": 15761.583333333334,
+      "avg_likes": 1124.4166666666667,
+      "avg_ir": 7.168097295222425,
+      "total_views": 189139,
+      "total_likes": 13493
+    }
+  },
+  "Diplo": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5843.0,
+      "avg_likes": 252.0,
+      "avg_ir": 4.398425466370015,
+      "total_views": 5843,
+      "total_likes": 252
+    }
+  },
+  "Vetusta Morla": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3671.0,
+      "avg_likes": 122.0,
+      "avg_ir": 3.5412694088804137,
+      "total_views": 3671,
+      "total_likes": 122
+    }
+  },
+  "Nena": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 168500.0,
+      "avg_likes": 29200.0,
+      "avg_ir": 17.417804154302672,
+      "total_views": 168500,
+      "total_likes": 29200
+    }
+  },
+  "Normani": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 3835.0,
+      "avg_likes": 259.3333333333333,
+      "avg_ir": 5.207672424487785,
+      "total_views": 23010,
+      "total_likes": 1556
+    }
+  },
+  "Residente": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 5580.0,
+      "avg_likes": 326.0,
+      "avg_ir": 6.111111111111111,
+      "total_views": 5580,
+      "total_likes": 326
+    },
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 22373.5,
+      "avg_likes": 492.0,
+      "avg_ir": 1.0864438406955748,
+      "total_views": 89494,
+      "total_likes": 4428
+    }
+  },
+  "Labrinth": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 14000.0,
+      "avg_likes": 1335.5,
+      "avg_ir": 9.471946935137119,
+      "total_views": 28000,
+      "total_likes": 2671
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3591.0,
+      "avg_likes": 76.0,
+      "avg_ir": 2.199944305207463,
+      "total_views": 3591,
+      "total_likes": 76
+    }
+  },
+  "Cults": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3297.0,
+      "avg_likes": 239.0,
+      "avg_ir": 7.612981498331816,
+      "total_views": 3297,
+      "total_likes": 239
+    }
+  },
+  "Sasha": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2898.0,
+      "avg_likes": 106.0,
+      "avg_ir": 3.795721187025535,
+      "total_views": 2898,
+      "total_likes": 106
+    }
+  },
+  "Ricky Martin": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 3676.625,
+      "avg_likes": 113.875,
+      "avg_ir": 3.0229490014303364,
+      "total_views": 29413,
+      "total_likes": 911
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 83815.5,
+      "avg_likes": 4297.0,
+      "avg_ir": 3.87142126618049,
+      "total_views": 167631,
+      "total_likes": 8594
+    }
+  },
+  "Mau y Ricky": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 8608.4,
+      "avg_likes": 224.2,
+      "avg_ir": 3.1866097834348057,
+      "total_views": 86084,
+      "total_likes": 2242
+    }
+  },
+  "Ana Mena": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 10800.0,
+      "avg_likes": 473.0,
+      "avg_ir": 4.805555555555555,
+      "total_views": 10800,
+      "total_likes": 473
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 5212.5,
+      "avg_likes": 186.0,
+      "avg_ir": 0.5616584915321841,
+      "total_views": 10425,
+      "total_likes": 1488
+    }
+  },
+  "xtinto": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 22850.0,
+      "avg_likes": 2913.5,
+      "avg_ir": 13.02449395828523,
+      "total_views": 45700,
+      "total_likes": 5827
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 7059.25,
+      "avg_likes": 248.25,
+      "avg_ir": 3.5525082540239827,
+      "total_views": 28237,
+      "total_likes": 993
+    }
+  },
+  "Lost Frequencies": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 12216.333333333334,
+      "avg_likes": 411.0,
+      "avg_ir": 3.3231611005750694,
+      "total_views": 36649,
+      "total_likes": 1233
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 61.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 61
+    }
+  },
+  "Alan Walker": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 9360.0,
+      "avg_likes": 506.3333333333333,
+      "avg_ir": 5.149767301941215,
+      "total_views": 28080,
+      "total_likes": 1519
+    }
+  },
+  "LOUTA": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 9201.0,
+      "avg_likes": 404.0,
+      "avg_ir": 4.5538528420823825,
+      "total_views": 9201,
+      "total_likes": 404
+    }
+  },
+  "Gepe": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 2497.0,
+      "avg_likes": 93.0,
+      "avg_ir": 3.1254149412829135,
+      "total_views": 4994,
+      "total_likes": 186
+    }
+  },
+  "Dominic Fike": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 15200.0,
+      "avg_likes": 1370.0,
+      "avg_ir": 9.23684210526316,
+      "total_views": 15200,
+      "total_likes": 1370
+    }
+  },
+  "Romeo Santos": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 22100.0,
+      "avg_likes": 1557.0,
+      "avg_ir": 7.113122171945702,
+      "total_views": 22100,
+      "total_likes": 1557
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 14911.0,
+      "avg_likes": 386.0,
+      "avg_ir": 2.669170411105895,
+      "total_views": 14911,
+      "total_likes": 386
+    }
+  },
+  "Vicente Fernández": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 30500.0,
+      "avg_likes": 3914.0,
+      "avg_ir": 13.036065573770491,
+      "total_views": 30500,
+      "total_likes": 3914
+    },
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 25257.666666666668,
+      "avg_likes": 594.4285714285714,
+      "avg_ir": 2.0935142055477556,
+      "total_views": 151546,
+      "total_likes": 4161
+    }
+  },
+  "Kany García": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 111276.0,
+      "avg_likes": 6742.6,
+      "avg_ir": 2.8342528084023373,
+      "total_views": 1112760,
+      "total_likes": 67426
+    },
+    "instagram": {
+      "total_videos": 14,
+      "avg_views": 6760.5,
+      "avg_likes": 146.85714285714286,
+      "avg_ir": 1.5753412613394713,
+      "total_views": 67605,
+      "total_likes": 2056
+    }
+  },
+  "Nicky Jam": {
+    "tiktok": {
+      "total_videos": 10,
+      "avg_views": 10467.1,
+      "avg_likes": 695.3,
+      "avg_ir": 4.935261090566717,
+      "total_views": 104671,
+      "total_likes": 6953
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3177.0,
+      "avg_likes": 69.0,
+      "avg_ir": 2.1816611507282246,
+      "total_views": 6354,
+      "total_likes": 138
+    }
+  },
+  "Christian Nodal": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 48598.0,
+      "avg_likes": 2649.75,
+      "avg_ir": 4.112745012899824,
+      "total_views": 194392,
+      "total_likes": 10599
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3338.0,
+      "avg_likes": 35.0,
+      "avg_ir": 1.048532055122828,
+      "total_views": 3338,
+      "total_likes": 35
+    }
+  },
+  "Andy Rivera": {
+    "tiktok": {
+      "total_videos": 6,
+      "avg_views": 17306.166666666668,
+      "avg_likes": 417.8333333333333,
+      "avg_ir": 3.503602103295988,
+      "total_views": 103837,
+      "total_likes": 2507
+    }
+  },
+  "Harry Styles": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6223.0,
+      "avg_likes": 220.0,
+      "avg_ir": 3.647758315924795,
+      "total_views": 6223,
+      "total_likes": 220
+    }
+  },
+  "BTS": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 39200.0,
+      "avg_likes": 3902.0,
+      "avg_ir": 10.040816326530612,
+      "total_views": 39200,
+      "total_likes": 3902
+    }
+  },
+  "Sofi Tukker": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6237.0,
+      "avg_likes": 376.0,
+      "avg_ir": 6.172839506172839,
+      "total_views": 6237,
+      "total_likes": 376
+    }
+  },
+  "Enrique Iglesias": {
+    "tiktok": {
+      "total_videos": 5,
+      "avg_views": 6439.8,
+      "avg_likes": 409.0,
+      "avg_ir": 3.894672503406909,
+      "total_views": 32199,
+      "total_likes": 2045
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 3604.0,
+      "avg_likes": 131.25,
+      "avg_ir": 0.4407283817149677,
+      "total_views": 7208,
+      "total_likes": 1050
+    }
+  },
+  "Tony Dize": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 8745.0,
+      "avg_likes": 329.0,
+      "avg_ir": 3.910806174957118,
+      "total_views": 8745,
+      "total_likes": 329
+    }
+  },
+  "Jorge Celedón": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 3383.0,
+      "avg_likes": 165.0,
+      "avg_ir": 4.995566065622229,
+      "total_views": 3383,
+      "total_likes": 165
+    }
+  },
+  "Silver": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 509.0,
+      "avg_likes": 6.0,
+      "avg_ir": 1.1787819253438114,
+      "total_views": 509,
+      "total_likes": 6
+    }
+  },
+  "Prince Royce": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 4061.0,
+      "avg_likes": 40.5,
+      "avg_ir": 2.2624065401160043,
+      "total_views": 8122,
+      "total_likes": 81
+    },
+    "instagram": {
+      "total_videos": 21,
+      "avg_views": 6983.4,
+      "avg_likes": 138.1904761904762,
+      "avg_ir": 0.8280960342586361,
+      "total_views": 69834,
+      "total_likes": 2902
+    }
+  },
+  "Joss Favela": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 12021.5,
+      "avg_likes": 417.0,
+      "avg_ir": 2.181705920653644,
+      "total_views": 48086,
+      "total_likes": 1668
+    },
+    "instagram": {
+      "total_videos": 13,
+      "avg_views": 3929.5714285714284,
+      "avg_likes": 86.76923076923077,
+      "avg_ir": 1.0047670329909586,
+      "total_views": 27507,
+      "total_likes": 1128
+    }
+  },
+  "Carlos Vives": {
+    "tiktok": {
+      "total_videos": 3,
+      "avg_views": 1709.6666666666667,
+      "avg_likes": 48.666666666666664,
+      "avg_ir": 2.8688476067963258,
+      "total_views": 5129,
+      "total_likes": 146
+    },
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 12049.0,
+      "avg_likes": 455.2,
+      "avg_ir": 3.0175375709015,
+      "total_views": 24098,
+      "total_likes": 2276
+    }
+  },
+  "Emmy Meli": {
+    "tiktok": {
+      "total_videos": 8,
+      "avg_views": 7770.0,
+      "avg_likes": 287.125,
+      "avg_ir": 2.4900044242220476,
+      "total_views": 62160,
+      "total_likes": 2297
+    }
+  },
+  "Coda": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4541.0,
+      "avg_likes": 105.0,
+      "avg_ir": 2.554503413345078,
+      "total_views": 4541,
+      "total_likes": 105
+    },
+    "instagram": {
+      "total_videos": 23,
+      "avg_views": 24240.0,
+      "avg_likes": 768.2608695652174,
+      "avg_ir": 2.568798030875497,
+      "total_views": 460560,
+      "total_likes": 17670
+    }
+  },
+  "Pol Granch": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 4756.0,
+      "avg_likes": 156.0,
+      "avg_ir": 3.511354079058032,
+      "total_views": 4756,
+      "total_likes": 156
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 52.5,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 105
+    }
+  },
+  "Edgar Domingos": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 321100.0,
+      "avg_likes": 43200.0,
+      "avg_ir": 14.024602927436936,
+      "total_views": 321100,
+      "total_likes": 43200
+    }
+  },
+  "Julinho Ksd": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1563.0,
+      "avg_likes": 31.0,
+      "avg_ir": 2.815099168266155,
+      "total_views": 1563,
+      "total_likes": 31
+    }
+  },
+  "SZA": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 6532.0,
+      "avg_likes": 699.0,
+      "avg_ir": 10.838946723821188,
+      "total_views": 6532,
+      "total_likes": 699
+    },
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 4509.0,
+      "avg_likes": 88.5,
+      "avg_ir": 0.7429585273896651,
+      "total_views": 4509,
+      "total_likes": 177
+    }
+  },
+  "Lil Nas X": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 3144.0,
+      "avg_likes": 160.5,
+      "avg_ir": 2.8873325399005156,
+      "total_views": 6288,
+      "total_likes": 321
+    },
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 4525.666666666667,
+      "avg_likes": 203.375,
+      "avg_ir": 1.8620604685980089,
+      "total_views": 27154,
+      "total_likes": 1627
+    }
+  },
+  "Ritt Momney": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 6056.0,
+      "avg_likes": 31.5,
+      "avg_ir": 1.2612851129173175,
+      "total_views": 12112,
+      "total_likes": 63
+    }
+  },
+  "Riton": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1407.0,
+      "avg_likes": 21.0,
+      "avg_ir": 1.4925373134328357,
+      "total_views": 1407,
+      "total_likes": 21
+    }
+  },
+  "Melendi": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 12650.5,
+      "avg_likes": 291.5,
+      "avg_ir": 1.966641384140574,
+      "total_views": 25301,
+      "total_likes": 583
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 76.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 76
+    }
+  },
+  "Eros Ramazzotti": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 2758.0,
+      "avg_likes": 33.0,
+      "avg_ir": 1.2327773749093547,
+      "total_views": 2758,
+      "total_likes": 33
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 35302.25,
+      "avg_likes": 222.0,
+      "avg_ir": 1.1513536879844535,
+      "total_views": 141209,
+      "total_likes": 888
+    }
+  },
+  "Paul Anka": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 5016.5,
+      "avg_likes": 193.0,
+      "avg_ir": 4.4517726982438655,
+      "total_views": 10033,
+      "total_likes": 386
+    }
+  },
+  "Heart": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 1113.0,
+      "avg_likes": 6.0,
+      "avg_ir": 0.5390835579514826,
+      "total_views": 1113,
+      "total_likes": 6
+    }
+  },
+  "Soda Stereo": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 1608.5,
+      "avg_likes": 32.5,
+      "avg_ir": 2.2900670495152387,
+      "total_views": 3217,
+      "total_likes": 65
+    }
+  },
+  "John Mayer": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 17963.5,
+      "avg_likes": 348.5,
+      "avg_ir": 3.212641839108483,
+      "total_views": 35927,
+      "total_likes": 697
+    }
+  },
+  "Calema": {
+    "tiktok": {
+      "total_videos": 4,
+      "avg_views": 382.5,
+      "avg_likes": 13.5,
+      "avg_ir": 4.086811766296423,
+      "total_views": 1530,
+      "total_likes": 54
+    }
+  },
+  "Calvin Harris": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 518.0,
+      "avg_likes": 14.0,
+      "avg_ir": 2.7027027027027026,
+      "total_views": 518,
+      "total_likes": 14
+    },
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 3466.0,
+      "avg_likes": 58.75,
+      "avg_ir": 1.0035608072280824,
+      "total_views": 6932,
+      "total_likes": 235
+    }
+  },
+  "Andrés Cepeda": {
+    "tiktok": {
+      "total_videos": 2,
+      "avg_views": 7264.0,
+      "avg_likes": 181.5,
+      "avg_ir": 2.329813249114496,
+      "total_views": 14528,
+      "total_likes": 363
+    }
+  },
+  "Tom Odell": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 465.0,
+      "avg_likes": 14.0,
+      "avg_ir": 3.4408602150537635,
+      "total_views": 465,
+      "total_likes": 14
+    }
+  },
+  "Giveon": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 631.0,
+      "avg_likes": 42.0,
+      "avg_ir": 7.290015847860539,
+      "total_views": 631,
+      "total_likes": 42
+    }
+  },
+  "Banda Machos": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 983.0,
+      "avg_likes": 96.0,
+      "avg_ir": 10.986775178026448,
+      "total_views": 983,
+      "total_likes": 96
+    }
+  },
+  "Foo Fighters": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 437.0,
+      "avg_likes": 36.0,
+      "avg_ir": 8.237986270022883,
+      "total_views": 437,
+      "total_likes": 36
+    },
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 6987.0,
+      "avg_likes": 144.0,
+      "avg_ir": 2.06097037355088,
+      "total_views": 6987,
+      "total_likes": 144
+    }
+  },
+  "CHROMANCE": {
+    "tiktok": {
+      "total_videos": 1,
+      "avg_views": 715.0,
+      "avg_likes": 77.0,
+      "avg_ir": 10.76923076923077,
+      "total_views": 715,
+      "total_likes": 77
+    }
+  },
+  "Billy Joel": {
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 3089.0,
+      "avg_likes": 59.666666666666664,
+      "avg_ir": 0.2481925110607532,
+      "total_views": 3089,
+      "total_likes": 358
+    }
+  },
+  "Depeche Mode": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 80.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 80
+    }
+  },
+  "\"Luis Angel \"\"El Flaco\"\"\"": {
+    "instagram": {
+      "total_videos": 26,
+      "avg_views": 9145.5,
+      "avg_likes": 142.3846153846154,
+      "avg_ir": 1.1725214126330554,
+      "total_views": 182910,
+      "total_likes": 3702
+    }
+  },
+  "Marc Anthony": {
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 9294.0,
+      "avg_likes": 139.75,
+      "avg_ir": 0.9127542018184787,
+      "total_views": 27882,
+      "total_likes": 1118
+    }
+  },
+  "Justin Timberlake": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 0.0,
+      "avg_likes": 147.33333333333334,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 442
+    }
+  },
+  "Eden Muñoz": {
+    "instagram": {
+      "total_videos": 34,
+      "avg_views": 8198.833333333334,
+      "avg_likes": 153.6764705882353,
+      "avg_ir": 1.4128504555401582,
+      "total_views": 196772,
+      "total_likes": 5225
+    }
+  },
+  "Carla Morrison": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 6924.5,
+      "avg_likes": 117.6,
+      "avg_ir": 0.7682993081509892,
+      "total_views": 13849,
+      "total_likes": 588
+    }
+  },
+  "\"21 Savage\"": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 178.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 356
+    }
+  },
+  "Travis Scott": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6346.0,
+      "avg_likes": 127.0,
+      "avg_ir": 1.5836747557516544,
+      "total_views": 6346,
+      "total_likes": 254
+    }
+  },
+  "India Martinez": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 14442.0,
+      "avg_likes": 113.5,
+      "avg_ir": 0.3219775654341504,
+      "total_views": 14442,
+      "total_likes": 227
+    }
+  },
+  "Natalia Jiménez": {
+    "instagram": {
+      "total_videos": 14,
+      "avg_views": 3482.818181818182,
+      "avg_likes": 102.57142857142857,
+      "avg_ir": 2.2619311179163355,
+      "total_views": 38311,
+      "total_likes": 1436
+    }
+  },
+  "Bring Me The Horizon": {
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 4252.0,
+      "avg_likes": 64.83333333333333,
+      "avg_ir": 0.7029339512888454,
+      "total_views": 12756,
+      "total_likes": 389
+    }
+  },
+  "Ole Ole": {
+    "instagram": {
+      "total_videos": 13,
+      "avg_views": 8129.0,
+      "avg_likes": 154.30769230769232,
+      "avg_ir": 1.1669928397229137,
+      "total_views": 56903,
+      "total_likes": 2006
+    }
+  },
+  "Pau Laggies": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 136.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 272
+    }
+  },
+  "Diego Torres": {
+    "instagram": {
+      "total_videos": 11,
+      "avg_views": 7205.125,
+      "avg_likes": 108.27272727272727,
+      "avg_ir": 1.1119114975346627,
+      "total_views": 57641,
+      "total_likes": 1191
+    }
+  },
+  "Tate McRae": {
+    "instagram": {
+      "total_videos": 15,
+      "avg_views": 9960.0,
+      "avg_likes": 231.06666666666666,
+      "avg_ir": 1.9980328459611103,
+      "total_views": 119520,
+      "total_likes": 3466
+    }
+  },
+  "Zara Larsson": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 100.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 100
+    }
+  },
+  "Judas Priest": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 44.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 44
+    }
+  },
+  "Nanpa Básico": {
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 5948.0,
+      "avg_likes": 124.66666666666667,
+      "avg_ir": 1.125365333281667,
+      "total_views": 47584,
+      "total_likes": 1122
+    }
+  },
+  "Natalia Lafourcade": {
+    "instagram": {
+      "total_videos": 18,
+      "avg_views": 10894.07142857143,
+      "avg_likes": 517.3888888888889,
+      "avg_ir": 2.8646039707821673,
+      "total_views": 152517,
+      "total_likes": 9313
+    }
+  },
+  "Luísa Sonza": {
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 9493.0,
+      "avg_likes": 436.6666666666667,
+      "avg_ir": 1.602850017510555,
+      "total_views": 18986,
+      "total_likes": 2620
+    }
+  },
+  "Chris Brown": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 62.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 62
+    }
+  },
+  "Omar Montes": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 5889.25,
+      "avg_likes": 152.8,
+      "avg_ir": 2.2128645407787815,
+      "total_views": 23557,
+      "total_likes": 764
+    }
+  },
+  "Sam Feldt": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 103.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 103
+    }
+  },
+  "Joan Sebastian": {
+    "instagram": {
+      "total_videos": 10,
+      "avg_views": 4911.25,
+      "avg_likes": 1129.3,
+      "avg_ir": 0.6622777657467595,
+      "total_views": 19645,
+      "total_likes": 11293
+    }
+  },
+  "Los Angeles Azules": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 0.0,
+      "avg_likes": 231.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 693
+    }
+  },
+  "Pink Floyd": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 7286.0,
+      "avg_likes": 78.0,
+      "avg_ir": 0.6587976942080703,
+      "total_views": 7286,
+      "total_likes": 156
+    }
+  },
+  "Ilegales": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 147.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 147
+    }
+  },
+  "Ryan Castro": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 7381.333333333333,
+      "avg_likes": 122.25,
+      "avg_ir": 1.5266036347785295,
+      "total_views": 22144,
+      "total_likes": 489
+    }
+  },
+  "Abel Pintos": {
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 6684.6,
+      "avg_likes": 143.14285714285714,
+      "avg_ir": 1.5975731193812526,
+      "total_views": 33423,
+      "total_likes": 1002
+    }
+  },
+  "Luke Hemmings": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 0.0,
+      "avg_likes": 131.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 393
+    }
+  },
+  "Vampire Weekend": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 0.0,
+      "avg_likes": 47.333333333333336,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 142
+    }
+  },
+  "Rvssian": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 4718.5,
+      "avg_likes": 121.0,
+      "avg_ir": 1.3656091448779553,
+      "total_views": 9437,
+      "total_likes": 363
+    }
+  },
+  "LEGADO 7": {
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 3759.8333333333335,
+      "avg_likes": 61.333333333333336,
+      "avg_ir": 1.180162525288427,
+      "total_views": 22559,
+      "total_likes": 552
+    }
+  },
+  "Chencho Corleone": {
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 4360.0,
+      "avg_likes": 95.57142857142857,
+      "avg_ir": 2.019968168154463,
+      "total_views": 26160,
+      "total_likes": 669
+    }
+  },
+  "Pedro Capó": {
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 3292.875,
+      "avg_likes": 61.111111111111114,
+      "avg_ir": 1.336870434867486,
+      "total_views": 26343,
+      "total_likes": 550
+    }
+  },
+  "Adriel Favela": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 243.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 243
+    }
+  },
+  "Paloma Morphy": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 167.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 167
+    }
+  },
+  "Yandel": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 0.0,
+      "avg_likes": 83.5,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 167
+    }
+  },
+  "Carlos Sadness": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 63.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 63
+    }
+  },
+  "ElyOtto": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 15523.0,
+      "avg_likes": 311.0,
+      "avg_ir": 2.0099207627391613,
+      "total_views": 15523,
+      "total_likes": 311
+    }
+  },
+  "Lila Downs": {
+    "instagram": {
+      "total_videos": 10,
+      "avg_views": 110515.33333333333,
+      "avg_likes": 2781.8,
+      "avg_ir": 1.8266024574533355,
+      "total_views": 994638,
+      "total_likes": 27818
+    }
+  },
+  "Los Enanitos Verdes": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 5076.0,
+      "avg_likes": 103.0,
+      "avg_ir": 1.9976637855953614,
+      "total_views": 10152,
+      "total_likes": 206
+    }
+  },
+  "Joaquin Medina": {
+    "instagram": {
+      "total_videos": 16,
+      "avg_views": 7634.375,
+      "avg_likes": 103.25,
+      "avg_ir": 1.6373051762291335,
+      "total_views": 122150,
+      "total_likes": 1652
+    }
+  },
+  "Vierre Cloud": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 9656.5,
+      "avg_likes": 929.3333333333334,
+      "avg_ir": 5.658437430796181,
+      "total_views": 19313,
+      "total_likes": 2788
+    }
+  },
+  "Almendra": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 46.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 46
+    }
+  },
+  "Eliza Rose": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 2702.5,
+      "avg_likes": 93.25,
+      "avg_ir": 1.6126179643398586,
+      "total_views": 5405,
+      "total_likes": 373
+    }
+  },
+  "Paul Russell": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 4156.0,
+      "avg_likes": 41.0,
+      "avg_ir": 0.505293551491819,
+      "total_views": 4156,
+      "total_likes": 82
+    }
+  },
+  "Kygo": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 2593.0,
+      "avg_likes": 51.0,
+      "avg_ir": 0.5977632086386425,
+      "total_views": 2593,
+      "total_likes": 102
+    }
+  },
+  "Robot95": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 3158.0,
+      "avg_likes": 91.33333333333333,
+      "avg_ir": 2.6794599327213784,
+      "total_views": 6316,
+      "total_likes": 274
+    }
+  },
+  "Lucho SSJ": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3301.0,
+      "avg_likes": 84.5,
+      "avg_ir": 1.2723417146319298,
+      "total_views": 3301,
+      "total_likes": 169
+    }
+  },
+  "Beéle": {
+    "instagram": {
+      "total_videos": 21,
+      "avg_views": 8050.95,
+      "avg_likes": 190.85714285714286,
+      "avg_ir": 1.999973534333329,
+      "total_views": 161019,
+      "total_likes": 4008
+    }
+  },
+  "CA7RIEL & Paco Amoroso": {
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 8774.0,
+      "avg_likes": 217.28571428571428,
+      "avg_ir": 2.2855439399587163,
+      "total_views": 52644,
+      "total_likes": 1521
+    }
+  },
+  "Ptazeta": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 128.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 128
+    }
+  },
+  "Arde Bogotá": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 4135.5,
+      "avg_likes": 109.66666666666667,
+      "avg_ir": 0.803389766194384,
+      "total_views": 8271,
+      "total_likes": 329
+    }
+  },
+  "Cage The Elephant": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 57.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 57
+    }
+  },
+  "Black Eyed Peas": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 278.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 278
+    }
+  },
+  "Silvestre Dangond": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 3761.3333333333335,
+      "avg_likes": 91.25,
+      "avg_ir": 1.4304691083455334,
+      "total_views": 11284,
+      "total_likes": 365
+    }
+  },
+  "Carin Leon": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 0.0,
+      "avg_likes": 111.0,
+      "avg_ir": 0.0,
+      "total_views": 0,
+      "total_likes": 111
+    }
+  },
+  "Hijos De Barron": {
+    "instagram": {
+      "total_videos": 20,
+      "avg_views": 3910.6,
+      "avg_likes": 56.75,
+      "avg_ir": 1.568662155900522,
+      "total_views": 78212,
+      "total_likes": 1135
+    }
+  },
+  "George Michael": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2678.0,
+      "avg_likes": 53.0,
+      "avg_ir": 1.9790888722927558,
+      "total_views": 2678,
+      "total_likes": 53
+    }
+  },
+  "Myles Smith": {
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 3269.6666666666665,
+      "avg_likes": 74.88888888888889,
+      "avg_ir": 2.285721503350459,
+      "total_views": 29427,
+      "total_likes": 674
+    }
+  },
+  "Yeri Mua": {
+    "instagram": {
+      "total_videos": 13,
+      "avg_views": 32357.384615384617,
+      "avg_likes": 1786.923076923077,
+      "avg_ir": 5.253563052592402,
+      "total_views": 420646,
+      "total_likes": 23230
+    }
+  },
+  "Dani Martín": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 6250.0,
+      "avg_likes": 70.33333333333333,
+      "avg_ir": 1.1910502370351412,
+      "total_views": 18750,
+      "total_likes": 211
+    }
+  },
+  "Vaundy": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 3242.2,
+      "avg_likes": 53.2,
+      "avg_ir": 1.7325934138201753,
+      "total_views": 16211,
+      "total_likes": 266
+    }
+  },
+  "Philip Bailey": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 2509.5,
+      "avg_likes": 53.5,
+      "avg_ir": 2.1488773336929663,
+      "total_views": 5019,
+      "total_likes": 107
+    }
+  },
+  "Pabllo Vittar": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3939.0,
+      "avg_likes": 90.0,
+      "avg_ir": 2.284843869002285,
+      "total_views": 3939,
+      "total_likes": 90
+    }
+  },
+  "Dan García": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 10212.5,
+      "avg_likes": 158.25,
+      "avg_ir": 1.905422738138182,
+      "total_views": 40850,
+      "total_likes": 633
+    }
+  },
+  "Jamiroquai": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2319.0,
+      "avg_likes": 31.0,
+      "avg_ir": 1.336783096162139,
+      "total_views": 2319,
+      "total_likes": 31
+    }
+  },
+  "Skechi": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 279040.0,
+      "avg_likes": 5824.0,
+      "avg_ir": 2.1290854357798166,
+      "total_views": 279040,
+      "total_likes": 5824
+    }
+  },
+  "flora cash": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 4672.0,
+      "avg_likes": 73.5,
+      "avg_ir": 1.5282122249794887,
+      "total_views": 9344,
+      "total_likes": 147
+    }
+  },
+  "Halsey": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3084.0,
+      "avg_likes": 52.0,
+      "avg_ir": 1.6861219195849546,
+      "total_views": 3084,
+      "total_likes": 52
+    }
+  },
+  "Lauty Gram": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 47794.5,
+      "avg_likes": 812.5,
+      "avg_ir": 1.7467052362969764,
+      "total_views": 95589,
+      "total_likes": 1625
+    }
+  },
+  "Jaxomy": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2369.0,
+      "avg_likes": 34.0,
+      "avg_ir": 1.47741663149008,
+      "total_views": 2369,
+      "total_likes": 34
+    }
+  },
+  "Arthur Hanlon": {
+    "instagram": {
+      "total_videos": 8,
+      "avg_views": 20019.5,
+      "avg_likes": 363.875,
+      "avg_ir": 1.9393522878885636,
+      "total_views": 160156,
+      "total_likes": 2911
+    }
+  },
+  "Emmanuel Horvilleur": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3528.0,
+      "avg_likes": 47.0,
+      "avg_ir": 1.3321995464852607,
+      "total_views": 3528,
+      "total_likes": 47
+    }
+  },
+  "Leon Bridges": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3953.0,
+      "avg_likes": 45.5,
+      "avg_ir": 1.1719349274891482,
+      "total_views": 7906,
+      "total_likes": 91
+    }
+  },
+  "*NSYNC": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 9363.0,
+      "avg_likes": 309.0,
+      "avg_ir": 3.310904624586137,
+      "total_views": 9363,
+      "total_likes": 309
+    }
+  },
+  "Steve Aoki": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 27437.0,
+      "avg_likes": 2682.0,
+      "avg_ir": 9.971935707256623,
+      "total_views": 27437,
+      "total_likes": 2682
+    }
+  },
+  "Arcangel": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 8243.5,
+      "avg_likes": 122.0,
+      "avg_ir": 1.44130308211526,
+      "total_views": 16487,
+      "total_likes": 244
+    }
+  },
+  "Martinwhite": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 14790.0,
+      "avg_likes": 698.3333333333334,
+      "avg_ir": 3.611732061036823,
+      "total_views": 44370,
+      "total_likes": 2095
+    }
+  },
+  "Robbie Williams": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 10102.0,
+      "avg_likes": 222.0,
+      "avg_ir": 2.2668778459710945,
+      "total_views": 10102,
+      "total_likes": 222
+    }
+  },
+  "Luis Alfonso": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 16435.0,
+      "avg_likes": 71.0,
+      "avg_ir": 0.43808944326133253,
+      "total_views": 16435,
+      "total_likes": 71
+    }
+  },
+  "Bomba Estéreo": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 7316.0,
+      "avg_likes": 222.33333333333334,
+      "avg_ir": 2.7887112721990763,
+      "total_views": 21948,
+      "total_likes": 667
+    }
+  },
+  "Alok": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4785.0,
+      "avg_likes": 169.0,
+      "avg_ir": 3.5527690700104495,
+      "total_views": 4785,
+      "total_likes": 169
+    }
+  },
+  "Lia Kali": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3070.0,
+      "avg_likes": 40.0,
+      "avg_ir": 1.3029315960912053,
+      "total_views": 3070,
+      "total_likes": 40
+    }
+  },
+  "Gloria Estefan": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 5490.2,
+      "avg_likes": 78.6,
+      "avg_ir": 1.5577933835891986,
+      "total_views": 27451,
+      "total_likes": 393
+    }
+  },
+  "Sandro Malandro": {
+    "instagram": {
+      "total_videos": 10,
+      "avg_views": 25496.6,
+      "avg_likes": 972.3,
+      "avg_ir": 2.4764521964560013,
+      "total_views": 254966,
+      "total_likes": 9723
+    }
+  },
+  "Chanel": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 5593.5,
+      "avg_likes": 108.5,
+      "avg_ir": 1.9368752850060158,
+      "total_views": 11187,
+      "total_likes": 217
+    }
+  },
+  "Esau Ortiz": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 7494.0,
+      "avg_likes": 172.25,
+      "avg_ir": 2.1786877129015862,
+      "total_views": 29976,
+      "total_likes": 689
+    }
+  },
+  "Dariell Cano": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 6545.0,
+      "avg_likes": 136.8,
+      "avg_ir": 1.932439170361409,
+      "total_views": 32725,
+      "total_likes": 684
+    }
+  },
+  "Peso Pluma": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6522.5,
+      "avg_likes": 232.0,
+      "avg_ir": 3.51437088133504,
+      "total_views": 13045,
+      "total_likes": 464
+    }
+  },
+  "Stardust": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 10668.5,
+      "avg_likes": 397.5,
+      "avg_ir": 3.268180302124584,
+      "total_views": 21337,
+      "total_likes": 795
+    }
+  },
+  "Edwin Luna": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 14228.0,
+      "avg_likes": 398.0,
+      "avg_ir": 2.9097554118639306,
+      "total_views": 14228,
+      "total_likes": 398
+    }
+  },
+  "Vicente Garcia": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 2985.5,
+      "avg_likes": 42.0,
+      "avg_ir": 1.3811589841050838,
+      "total_views": 5971,
+      "total_likes": 84
+    }
+  },
+  "Kevin Kaarl": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 10751.0,
+      "avg_likes": 414.0,
+      "avg_ir": 3.737828292594893,
+      "total_views": 32253,
+      "total_likes": 1242
+    }
+  },
+  "Ivandro": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3905.0,
+      "avg_likes": 65.0,
+      "avg_ir": 2.0057223749036535,
+      "total_views": 7810,
+      "total_likes": 130
+    }
+  },
+  "Alemán": {
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 26317.14285714286,
+      "avg_likes": 1622.7142857142858,
+      "avg_ir": 4.010932138278873,
+      "total_views": 184220,
+      "total_likes": 11359
+    }
+  },
+  "Fito Paez": {
+    "instagram": {
+      "total_videos": 9,
+      "avg_views": 4720.666666666667,
+      "avg_likes": 59.666666666666664,
+      "avg_ir": 1.59768903108335,
+      "total_views": 42486,
+      "total_likes": 537
+    }
+  },
+  "Los Pericos": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2441.0,
+      "avg_likes": 46.0,
+      "avg_ir": 1.8844735764031135,
+      "total_views": 2441,
+      "total_likes": 46
+    }
+  },
+  "Oscar Ortiz": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 5753.25,
+      "avg_likes": 93.0,
+      "avg_ir": 1.6154085077602895,
+      "total_views": 23013,
+      "total_likes": 372
+    }
+  },
+  "Sleep Token": {
+    "instagram": {
+      "total_videos": 3,
+      "avg_views": 3920.0,
+      "avg_likes": 68.0,
+      "avg_ir": 1.8320438715077987,
+      "total_views": 11760,
+      "total_likes": 204
+    }
+  },
+  "Victor Mendivil": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 11666.25,
+      "avg_likes": 357.5,
+      "avg_ir": 2.728899605025345,
+      "total_views": 46665,
+      "total_likes": 1430
+    }
+  },
+  "Julio Caesar": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 2581.5,
+      "avg_likes": 35.0,
+      "avg_ir": 1.3516331286011651,
+      "total_views": 5163,
+      "total_likes": 70
+    }
+  },
+  "Ritorukai": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3790.0,
+      "avg_likes": 43.5,
+      "avg_ir": 1.3712635246653218,
+      "total_views": 7580,
+      "total_likes": 87
+    }
+  },
+  "Ozzy Osbourne": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 8059.5,
+      "avg_likes": 375.0,
+      "avg_ir": 3.493919462578322,
+      "total_views": 16119,
+      "total_likes": 750
+    }
+  },
+  "Rafael Basurto": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2554.0,
+      "avg_likes": 34.0,
+      "avg_ir": 1.331245105716523,
+      "total_views": 2554,
+      "total_likes": 34
+    }
+  },
+  "tatool": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 6364.0,
+      "avg_likes": 94.0,
+      "avg_ir": 1.47705845380264,
+      "total_views": 6364,
+      "total_likes": 94
+    }
+  },
+  "Conexión Divina": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 6591.0,
+      "avg_likes": 39.5,
+      "avg_ir": 0.7887788459744371,
+      "total_views": 13182,
+      "total_likes": 79
+    }
+  },
+  "Panter Bélico": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 8303.0,
+      "avg_likes": 142.0,
+      "avg_ir": 1.7102252198000722,
+      "total_views": 8303,
+      "total_likes": 142
+    }
+  },
+  "Camilorecord": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 5302.0,
+      "avg_likes": 74.0,
+      "avg_ir": 1.4334213504337987,
+      "total_views": 5302,
+      "total_likes": 74
+    }
+  },
+  "Tame Impala": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 5631.0,
+      "avg_likes": 142.0,
+      "avg_ir": 2.5217545729000177,
+      "total_views": 5631,
+      "total_likes": 142
+    }
+  },
+  "Foreign Teck": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 10334.0,
+      "avg_likes": 312.0,
+      "avg_ir": 3.0481904393264947,
+      "total_views": 10334,
+      "total_likes": 312
+    }
+  },
+  "Arath Herce": {
+    "instagram": {
+      "total_videos": 7,
+      "avg_views": 5698.285714285715,
+      "avg_likes": 100.57142857142857,
+      "avg_ir": 1.8528091690396795,
+      "total_views": 39888,
+      "total_likes": 704
+    }
+  },
+  "Patricia Sosa": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 10872.0,
+      "avg_likes": 109.0,
+      "avg_ir": 1.0393671817512877,
+      "total_views": 10872,
+      "total_likes": 109
+    }
+  },
+  "The Chainsmokers": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 3545.0,
+      "avg_likes": 58.5,
+      "avg_ir": 1.6859577703444888,
+      "total_views": 7090,
+      "total_likes": 117
+    }
+  },
+  "Marcos Villalobos": {
+    "instagram": {
+      "total_videos": 6,
+      "avg_views": 99360.0,
+      "avg_likes": 4317.833333333333,
+      "avg_ir": 5.314028500894573,
+      "total_views": 596160,
+      "total_likes": 25907
+    }
+  },
+  "Robinson": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 8382.0,
+      "avg_likes": 206.0,
+      "avg_ir": 2.4818805972864673,
+      "total_views": 16764,
+      "total_likes": 412
+    }
+  },
+  "FMK": {
+    "instagram": {
+      "total_videos": 2,
+      "avg_views": 9731.0,
+      "avg_likes": 319.0,
+      "avg_ir": 2.8750237434275805,
+      "total_views": 19462,
+      "total_likes": 638
+    }
+  },
+  "mafalda cardenal": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 8091.0,
+      "avg_likes": 475.0,
+      "avg_ir": 7.353849956742059,
+      "total_views": 8091,
+      "total_likes": 475
+    }
+  },
+  "MALA MAÑA": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 363937.5,
+      "avg_likes": 7266.0,
+      "avg_ir": 2.601413888153025,
+      "total_views": 1455750,
+      "total_likes": 29064
+    }
+  },
+  "Grupo Frontera": {
+    "instagram": {
+      "total_videos": 4,
+      "avg_views": 7507.5,
+      "avg_likes": 172.25,
+      "avg_ir": 2.436838476055489,
+      "total_views": 30030,
+      "total_likes": 689
+    }
+  },
+  "Young Cister": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4344.0,
+      "avg_likes": 81.0,
+      "avg_ir": 1.9106813996316758,
+      "total_views": 4344,
+      "total_likes": 81
+    }
+  },
+  "Rubén Blades": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 2734.0,
+      "avg_likes": 43.0,
+      "avg_ir": 1.6093635698610096,
+      "total_views": 2734,
+      "total_likes": 43
+    }
+  },
+  "Starship": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4694.0,
+      "avg_likes": 116.0,
+      "avg_ir": 2.4925436727737535,
+      "total_views": 4694,
+      "total_likes": 116
+    }
+  },
+  "Charly García": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 27876.0,
+      "avg_likes": 142.0,
+      "avg_ir": 0.5165733964700818,
+      "total_views": 27876,
+      "total_likes": 142
+    }
+  },
+  "Jumbo": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 57311.0,
+      "avg_likes": 1495.0,
+      "avg_ir": 2.7603775889445306,
+      "total_views": 57311,
+      "total_likes": 1495
+    }
+  },
+  "Oasis": {
+    "instagram": {
+      "total_videos": 5,
+      "avg_views": 19851.0,
+      "avg_likes": 337.8,
+      "avg_ir": 1.9407109434407306,
+      "total_views": 99255,
+      "total_likes": 1689
+    }
+  },
+  "Anuel AA": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 5534.0,
+      "avg_likes": 130.0,
+      "avg_ir": 2.3852547885796893,
+      "total_views": 5534,
+      "total_likes": 130
+    }
+  },
+  "Luis R Conriquez": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 4352.0,
+      "avg_likes": 79.0,
+      "avg_ir": 1.8152573529411766,
+      "total_views": 4352,
+      "total_likes": 79
+    }
+  },
+  "MASE": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 26976.0,
+      "avg_likes": 812.0,
+      "avg_ir": 3.1361209964412815,
+      "total_views": 26976,
+      "total_likes": 812
+    }
+  },
+  "Milkman": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 6341.0,
+      "avg_likes": 33.0,
+      "avg_ir": 0.5204226462703043,
+      "total_views": 6341,
+      "total_likes": 33
+    }
+  },
+  "Los Auténticos Decadentes": {
+    "instagram": {
+      "total_videos": 1,
+      "avg_views": 3031.0,
+      "avg_likes": 36.0,
+      "avg_ir": 1.2207192345760474,
+      "total_views": 3031,
+      "total_likes": 36
+    }
+  }
+}
