@@ -178,46 +178,64 @@ export default function Home() {
   }, [platform]);
 
   // Calcular métricas totales o del mes seleccionado
+  
+
+
+
+  
+  
   const totalMetrics = useMemo(() => {
-    let allVideos: Video[] = [];
-    
-    if (selectedMonth && data[selectedMonth]) {
-      // Si hay un mes seleccionado, usar solo esos videos
-      allVideos = data[selectedMonth].all_videos;
-    } else {
-      // Si no, usar todos los videos
-      Object.values(data).forEach((month) => {
-        allVideos.push(...month.all_videos);
-      });
-    }
+  let allVideos: Video[] = [];
 
-    if (allVideos.length === 0) {
-      return {
-        total_posts: 0,
-        avg_views: 0,
-        avg_likes: 0,
-        avg_ir: 0,
-        total_shares: 0,
-        total_comments: 0,
-        total_collects: 0,
-      };
-    }
+  // Recorre todos los meses del dataset y aplica ambos filtros
+  Object.entries(data)
+    .filter(([monthKey]) => {
+      // Filtrar por año seleccionado
+      if (selectedYear !== 'all' && !monthKey.startsWith(selectedYear)) return false;
+      // Filtrar por mes seleccionado
+      if (selectedMonth && selectedMonth !== 'all' && monthKey !== selectedMonth) return false;
+      return true;
+    })
+    .forEach(([_, monthData]) => {
+      allVideos.push(...monthData.all_videos);
+    });
 
-    const views = allVideos.map((v) => v.views);
-    const likes = allVideos.map((v) => v.likes);
-    const ir = allVideos.map((v) => v.ir);
-
+  if (allVideos.length === 0) {
     return {
-      total_posts: allVideos.length,
-      avg_views: views.reduce((a, b) => a + b, 0) / views.length,
-      avg_likes: likes.reduce((a, b) => a + b, 0) / likes.length,
-      avg_ir: ir.reduce((a, b) => a + b, 0) / ir.length,
-      total_shares: allVideos.reduce((sum, v) => sum + v.shares, 0),
-      total_comments: allVideos.reduce((sum, v) => sum + v.comments, 0),
-      total_collects: allVideos.reduce((sum, v) => sum + v.collects, 0),
+      total_posts: 0,
+      avg_views: 0,
+      avg_likes: 0,
+      avg_ir: 0,
+      total_shares: 0,
+      total_comments: 0,
+      total_collects: 0,
     };
-  }, [data, selectedMonth]);
+  }
 
+  const views = allVideos.map((v) => v.views);
+  const likes = allVideos.map((v) => v.likes);
+  const ir = allVideos.map((v) => v.ir);
+
+  return {
+    total_posts: allVideos.length,
+    avg_views: views.reduce((a, b) => a + b, 0) / views.length,
+    avg_likes: likes.reduce((a, b) => a + b, 0) / likes.length,
+    avg_ir: ir.reduce((a, b) => a + b, 0) / ir.length,
+    total_shares: allVideos.reduce((sum, v) => sum + v.shares, 0),
+    total_comments: allVideos.reduce((sum, v) => sum + v.comments, 0),
+    total_collects: allVideos.reduce((sum, v) => sum + v.collects, 0),
+  };
+}, [data, selectedMonth, selectedYear]);
+
+
+
+
+
+
+
+
+
+  
   // Preparar datos para gráfica de evolución
   const chartData = useMemo(() => {
     return Object.entries(data)
