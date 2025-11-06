@@ -675,11 +675,11 @@ export default function Home() {
   };
 
   const metricLabels = {
-    median_views: '📊Mediana de Views',
-    avg_views: '📈Promedio de Views',
-    avg_likes: '📈Promedio de Likes',
-    median_ir: '📊Interaction Rate Mediana',
-    avg_ir: '📈Interaction Rate Promedio',
+    median_views: 'Mediana de Views',
+    avg_views: 'Promedio de Views',
+    avg_likes: 'Promedio de Likes',
+    median_ir: 'Interaction Rate Mediana',
+    avg_ir: 'Interaction Rate Promedio',
   };
 
   return (
@@ -889,11 +889,11 @@ export default function Home() {
                           paddingRight: '32px',
                         }}
                       >
-                        <option value="median_views">● Mediana de Views</option>
-                        <option value="avg_views">▲ Promedio de Views</option>
-                        <option value="avg_likes">♥ Promedio de Likes</option>
-                        <option value="median_ir">◆ Interaction Rate Mediana</option>
-                        <option value="avg_ir">⚡ Interaction Rate Promedio</option>
+                        <option value="median_views">Mediana de Views</option>
+                        <option value="avg_views">Promedio de Views</option>
+                        <option value="avg_likes">Promedio de Likes</option>
+                        <option value="median_ir">Interaction Rate Mediana</option>
+                        <option value="avg_ir">Interaction Rate Promedio</option>
                       </select>
                       <div style={{ position: 'absolute', right: '8px', top: '50%', transform: 'translateY(-50%)', pointerEvents: 'none' }}>
                         {evolutionMetric === 'median_views' && <BarChart3 size={14} color="#666" />}
