@@ -686,12 +686,11 @@ export default function Home() {
     <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom right, #f9fafb, #e5e7eb)' }}>
       <div style={{ maxWidth: '1400px', margin: '0 auto', padding: '24px' }}>
         {/* Header */}
-        <div style={{ marginBottom: '24px', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+        <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
           <div>
             <h1 style={{ fontSize: '28px', fontWeight: 'bold', color: '#111', marginBottom: '8px' }}>
               Performance de cuenta oficial de Sony Music México en {platform === 'tiktok' ? 'TikTok' : 'Instagram'}
             </h1>
-            <p style={{ fontSize: '14px', color: '#666' }}>Dashboard de rendimiento mensual</p>
           </div>
           <div style={{ display: 'flex', gap: '8px' }}>
             <button
