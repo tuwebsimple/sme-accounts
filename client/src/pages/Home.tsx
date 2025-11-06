@@ -749,7 +749,7 @@ export default function Home() {
         </div>
 
         {/* Controles principales */}
-        <div style={{ display: 'flex', gap: '12px', marginBottom: '24px', flexWrap: 'wrap', alignItems: 'center' }}>
+        <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap', alignItems: 'center' }}>
           {selectedMonth && (
             <button
               onClick={() => setSelectedMonth(null)}
